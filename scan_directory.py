@@ -45,7 +45,7 @@ def scan_directory(base_dir, parent_path=''):
     
     for item_name in children:
         # 跳过隐藏文件和脚本
-        if item_name.startswith('.') or item_name in ['scan_directory.py', 'generate_index.py', 'index.html', 'search_index.json', 'directory_tree.json']:
+        if item_name.startswith('.') or item_name in ['ANALYSIS_REPORT模板.md', 'scan_directory.py', 'generate_index.py', 'index.html', 'search_index.json', 'directory_tree.json']:
             continue
             
         item_path = base_dir / item_name
