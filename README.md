@@ -34,6 +34,9 @@
 - 模块统计信息
 - 文件路径映射
 
+### generate_index.py和generate_index_v2.py
+- 已经无用了
+
 ## 快速开始
 
 ### 1. 生成目录数据
