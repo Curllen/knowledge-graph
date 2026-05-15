@@ -1,0 +1,331 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "ChatController.java",
+      "file_type": "code",
+      "source_file": "controller/ChatController.java",
+      "source_location": "L1",
+      "id": "controller_chatcontroller_java",
+      "community": 0,
+      "norm_label": "chatcontroller.java"
+    },
+    {
+      "label": "ChatController",
+      "file_type": "code",
+      "source_file": "controller/ChatController.java",
+      "source_location": "L76",
+      "id": "controller_chatcontroller_chatcontroller",
+      "community": 0,
+      "norm_label": "chatcontroller"
+    },
+    {
+      "label": ".ChatController()",
+      "file_type": "code",
+      "source_file": "controller/ChatController.java",
+      "source_location": "L91",
+      "id": "controller_chatcontroller_chatcontroller_chatcontroller",
+      "community": 0,
+      "norm_label": ".chatcontroller()"
+    },
+    {
+      "label": ".completion()",
+      "file_type": "code",
+      "source_file": "controller/ChatController.java",
+      "source_location": "L104",
+      "id": "controller_chatcontroller_chatcontroller_completion",
+      "community": 0,
+      "norm_label": ".completion()"
+    },
+    {
+      "label": ".sendStreamingResponse()",
+      "file_type": "code",
+      "source_file": "controller/ChatController.java",
+      "source_location": "L209",
+      "id": "controller_chatcontroller_chatcontroller_sendstreamingresponse",
+      "community": 0,
+      "norm_label": ".sendstreamingresponse()"
+    },
+    {
+      "label": ".handleError()",
+      "file_type": "code",
+      "source_file": "controller/ChatController.java",
+      "source_location": "L236",
+      "id": "controller_chatcontroller_chatcontroller_handleerror",
+      "community": 0,
+      "norm_label": ".handleerror()"
+    },
+    {
+      "label": ".handleComplete()",
+      "file_type": "code",
+      "source_file": "controller/ChatController.java",
+      "source_location": "L297",
+      "id": "controller_chatcontroller_chatcontroller_handlecomplete",
+      "community": 0,
+      "norm_label": ".handlecomplete()"
+    },
+    {
+      "label": ".asyncCompletion()",
+      "file_type": "code",
+      "source_file": "controller/ChatController.java",
+      "source_location": "L302",
+      "id": "controller_chatcontroller_chatcontroller_asynccompletion",
+      "community": 0,
+      "norm_label": ".asynccompletion()"
+    },
+    {
+      "label": ".stopCompletion()",
+      "file_type": "code",
+      "source_file": "controller/ChatController.java",
+      "source_location": "L311",
+      "id": "controller_chatcontroller_chatcontroller_stopcompletion",
+      "community": 0,
+      "norm_label": ".stopcompletion()"
+    },
+    {
+      "label": ".getAsyncResults()",
+      "file_type": "code",
+      "source_file": "controller/ChatController.java",
+      "source_location": "L321",
+      "id": "controller_chatcontroller_chatcontroller_getasyncresults",
+      "community": 0,
+      "norm_label": ".getasyncresults()"
+    },
+    {
+      "label": "ApiKeyAuthInterceptor.java",
+      "file_type": "code",
+      "source_file": "interceptor/ApiKeyAuthInterceptor.java",
+      "source_location": "L1",
+      "id": "interceptor_apikeyauthinterceptor_java",
+      "community": 1,
+      "norm_label": "apikeyauthinterceptor.java"
+    },
+    {
+      "label": "ApiKeyAuthInterceptor",
+      "file_type": "code",
+      "source_file": "interceptor/ApiKeyAuthInterceptor.java",
+      "source_location": "L48",
+      "id": "interceptor_apikeyauthinterceptor_apikeyauthinterceptor",
+      "community": 1,
+      "norm_label": "apikeyauthinterceptor"
+    },
+    {
+      "label": "HandlerInterceptor",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "handlerinterceptor",
+      "community": 1,
+      "norm_label": "handlerinterceptor"
+    },
+    {
+      "label": ".preHandle()",
+      "file_type": "code",
+      "source_file": "interceptor/ApiKeyAuthInterceptor.java",
+      "source_location": "L63",
+      "id": "interceptor_apikeyauthinterceptor_apikeyauthinterceptor_prehandle",
+      "community": 1,
+      "norm_label": ".prehandle()"
+    },
+    {
+      "label": ".returnAuthError()",
+      "file_type": "code",
+      "source_file": "interceptor/ApiKeyAuthInterceptor.java",
+      "source_location": "L109",
+      "id": "interceptor_apikeyauthinterceptor_apikeyauthinterceptor_returnautherror",
+      "community": 1,
+      "norm_label": ".returnautherror()"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "controller/ChatController.java",
+      "source_location": "L76",
+      "weight": 1.0,
+      "source": "controller_chatcontroller_java",
+      "target": "controller_chatcontroller_chatcontroller",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "controller/ChatController.java",
+      "source_location": "L91",
+      "weight": 1.0,
+      "source": "controller_chatcontroller_chatcontroller",
+      "target": "controller_chatcontroller_chatcontroller_chatcontroller",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "controller/ChatController.java",
+      "source_location": "L156",
+      "weight": 1.0,
+      "source": "controller_chatcontroller_chatcontroller",
+      "target": "controller_chatcontroller_chatcontroller_completion",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "controller/ChatController.java",
+      "source_location": "L254",
+      "weight": 1.0,
+      "source": "controller_chatcontroller_chatcontroller",
+      "target": "controller_chatcontroller_chatcontroller_sendstreamingresponse",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "controller/ChatController.java",
+      "source_location": "L281",
+      "weight": 1.0,
+      "source": "controller_chatcontroller_chatcontroller",
+      "target": "controller_chatcontroller_chatcontroller_handleerror",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "controller/ChatController.java",
+      "source_location": "L297",
+      "weight": 1.0,
+      "source": "controller_chatcontroller_chatcontroller",
+      "target": "controller_chatcontroller_chatcontroller_handlecomplete",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "controller/ChatController.java",
+      "source_location": "L302",
+      "weight": 1.0,
+      "source": "controller_chatcontroller_chatcontroller",
+      "target": "controller_chatcontroller_chatcontroller_asynccompletion",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "controller/ChatController.java",
+      "source_location": "L311",
+      "weight": 1.0,
+      "source": "controller_chatcontroller_chatcontroller",
+      "target": "controller_chatcontroller_chatcontroller_stopcompletion",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "controller/ChatController.java",
+      "source_location": "L321",
+      "weight": 1.0,
+      "source": "controller_chatcontroller_chatcontroller",
+      "target": "controller_chatcontroller_chatcontroller_getasyncresults",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "controller/ChatController.java",
+      "source_location": "L121",
+      "weight": 1.0,
+      "source": "controller_chatcontroller_chatcontroller_completion",
+      "target": "controller_chatcontroller_chatcontroller_sendstreamingresponse",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "controller/ChatController.java",
+      "source_location": "L122",
+      "weight": 1.0,
+      "source": "controller_chatcontroller_chatcontroller_completion",
+      "target": "controller_chatcontroller_chatcontroller_handleerror",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "controller/ChatController.java",
+      "source_location": "L123",
+      "weight": 1.0,
+      "source": "controller_chatcontroller_chatcontroller_completion",
+      "target": "controller_chatcontroller_chatcontroller_handlecomplete",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "interceptor/ApiKeyAuthInterceptor.java",
+      "source_location": "L38",
+      "weight": 1.0,
+      "source": "interceptor_apikeyauthinterceptor_java",
+      "target": "handlerinterceptor",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "interceptor/ApiKeyAuthInterceptor.java",
+      "source_location": "L48",
+      "weight": 1.0,
+      "source": "interceptor_apikeyauthinterceptor_java",
+      "target": "interceptor_apikeyauthinterceptor_apikeyauthinterceptor",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "source_file": "interceptor/ApiKeyAuthInterceptor.java",
+      "source_location": "L48",
+      "weight": 1.0,
+      "source": "interceptor_apikeyauthinterceptor_apikeyauthinterceptor",
+      "target": "handlerinterceptor",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "interceptor/ApiKeyAuthInterceptor.java",
+      "source_location": "L63",
+      "weight": 1.0,
+      "source": "interceptor_apikeyauthinterceptor_apikeyauthinterceptor",
+      "target": "interceptor_apikeyauthinterceptor_apikeyauthinterceptor_prehandle",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "interceptor/ApiKeyAuthInterceptor.java",
+      "source_location": "L109",
+      "weight": 1.0,
+      "source": "interceptor_apikeyauthinterceptor_apikeyauthinterceptor",
+      "target": "interceptor_apikeyauthinterceptor_apikeyauthinterceptor_returnautherror",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "interceptor/ApiKeyAuthInterceptor.java",
+      "source_location": "L74",
+      "weight": 1.0,
+      "source": "interceptor_apikeyauthinterceptor_apikeyauthinterceptor_prehandle",
+      "target": "interceptor_apikeyauthinterceptor_apikeyauthinterceptor_returnautherror",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "built_at_commit": "926753aaeb5175c100d16160f991e41be1ac46c7"
+}

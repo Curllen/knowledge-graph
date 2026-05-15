@@ -1,0 +1,2476 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "voice.js",
+      "file_type": "code",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L1",
+      "id": "resources_static_js_voice_js",
+      "community": 3,
+      "norm_label": "voice.js"
+    },
+    {
+      "label": "el",
+      "file_type": "code",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L27",
+      "id": "js_voice_el",
+      "community": 3,
+      "norm_label": "el"
+    },
+    {
+      "label": "setStatus()",
+      "file_type": "code",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L80",
+      "id": "js_voice_setstatus",
+      "community": 4,
+      "norm_label": "setstatus()"
+    },
+    {
+      "label": "formatTime()",
+      "file_type": "code",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L93",
+      "id": "js_voice_formattime",
+      "community": 7,
+      "norm_label": "formattime()"
+    },
+    {
+      "label": "addActivity()",
+      "file_type": "code",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L97",
+      "id": "js_voice_addactivity",
+      "community": 7,
+      "norm_label": "addactivity()"
+    },
+    {
+      "label": "escapeHtml()",
+      "file_type": "code",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L124",
+      "id": "js_voice_escapehtml",
+      "community": 7,
+      "norm_label": "escapehtml()"
+    },
+    {
+      "label": "addLog()",
+      "file_type": "code",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L130",
+      "id": "js_voice_addlog",
+      "community": 7,
+      "norm_label": "addlog()"
+    },
+    {
+      "label": "clearActivity()",
+      "file_type": "code",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L145",
+      "id": "js_voice_clearactivity",
+      "community": 3,
+      "norm_label": "clearactivity()"
+    },
+    {
+      "label": "clearLogs()",
+      "file_type": "code",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L149",
+      "id": "js_voice_clearlogs",
+      "community": 3,
+      "norm_label": "clearlogs()"
+    },
+    {
+      "label": "resetPipeline()",
+      "file_type": "code",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L153",
+      "id": "js_voice_resetpipeline",
+      "community": 3,
+      "norm_label": "resetpipeline()"
+    },
+    {
+      "label": "startTurn()",
+      "file_type": "code",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L162",
+      "id": "js_voice_startturn",
+      "community": 3,
+      "norm_label": "startturn()"
+    },
+    {
+      "label": "finishTurn()",
+      "file_type": "code",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L167",
+      "id": "js_voice_finishturn",
+      "community": 4,
+      "norm_label": "finishturn()"
+    },
+    {
+      "label": "ttsBuffer",
+      "file_type": "code",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L173",
+      "id": "js_voice_ttsbuffer",
+      "community": 3,
+      "norm_label": "ttsbuffer"
+    },
+    {
+      "label": "ttsPlayQueue",
+      "file_type": "code",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L175",
+      "id": "js_voice_ttsplayqueue",
+      "community": 3,
+      "norm_label": "ttsplayqueue"
+    },
+    {
+      "label": "pushTtsChunk()",
+      "file_type": "code",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L180",
+      "id": "js_voice_pushttschunk",
+      "community": 4,
+      "norm_label": "pushttschunk()"
+    },
+    {
+      "label": "flushTtsToQueue()",
+      "file_type": "code",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L184",
+      "id": "js_voice_flushttstoqueue",
+      "community": 4,
+      "norm_label": "flushttstoqueue()"
+    },
+    {
+      "label": "playNextTtsInQueue()",
+      "file_type": "code",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L194",
+      "id": "js_voice_playnextttsinqueue",
+      "community": 4,
+      "norm_label": "playnextttsinqueue()"
+    },
+    {
+      "label": "stopTtsPlayback()",
+      "file_type": "code",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L220",
+      "id": "js_voice_stopttsplayback",
+      "community": 9,
+      "norm_label": "stopttsplayback()"
+    },
+    {
+      "label": "handleEvent()",
+      "file_type": "code",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L234",
+      "id": "js_voice_handleevent",
+      "community": 4,
+      "norm_label": "handleevent()"
+    },
+    {
+      "label": "startAudioCapture()",
+      "file_type": "code",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L329",
+      "id": "js_voice_startaudiocapture",
+      "community": 3,
+      "norm_label": "startaudiocapture()"
+    },
+    {
+      "label": "stopAudioCapture()",
+      "file_type": "code",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L349",
+      "id": "js_voice_stopaudiocapture",
+      "community": 9,
+      "norm_label": "stopaudiocapture()"
+    },
+    {
+      "label": "start()",
+      "file_type": "code",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L364",
+      "id": "js_voice_start",
+      "community": 3,
+      "norm_label": "start()"
+    },
+    {
+      "label": "stop()",
+      "file_type": "code",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L421",
+      "id": "js_voice_stop",
+      "community": 9,
+      "norm_label": "stop()"
+    },
+    {
+      "label": "finalizeStop()",
+      "file_type": "code",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L451",
+      "id": "js_voice_finalizestop",
+      "community": 4,
+      "norm_label": "finalizestop()"
+    },
+    {
+      "label": "sendText()",
+      "file_type": "code",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L475",
+      "id": "js_voice_sendtext",
+      "community": 3,
+      "norm_label": "sendtext()"
+    },
+    {
+      "label": "VoiceAgentConfig.java",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/VoiceAgentConfig.java",
+      "source_location": "L1",
+      "id": "java_com_alibaba_cloud_ai_examples_voiceagent_voiceagentconfig_java",
+      "community": 10,
+      "norm_label": "voiceagentconfig.java"
+    },
+    {
+      "label": "VoiceAgentConfig",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/VoiceAgentConfig.java",
+      "source_location": "L28",
+      "id": "voiceagent_voiceagentconfig_voiceagentconfig",
+      "community": 10,
+      "norm_label": "voiceagentconfig"
+    },
+    {
+      "label": ".sandwichAgent()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/VoiceAgentConfig.java",
+      "source_location": "L41",
+      "id": "voiceagent_voiceagentconfig_voiceagentconfig_sandwichagent",
+      "community": 10,
+      "norm_label": ".sandwichagent()"
+    },
+    {
+      "label": "SandwichTools.java",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/SandwichTools.java",
+      "source_location": "L1",
+      "id": "java_com_alibaba_cloud_ai_examples_voiceagent_sandwichtools_java",
+      "community": 8,
+      "norm_label": "sandwichtools.java"
+    },
+    {
+      "label": "SandwichTools",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/SandwichTools.java",
+      "source_location": "L25",
+      "id": "voiceagent_sandwichtools_sandwichtools",
+      "community": 8,
+      "norm_label": "sandwichtools"
+    },
+    {
+      "label": ".addToOrder()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/SandwichTools.java",
+      "source_location": "L28",
+      "id": "voiceagent_sandwichtools_sandwichtools_addtoorder",
+      "community": 8,
+      "norm_label": ".addtoorder()"
+    },
+    {
+      "label": ".confirmOrder()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/SandwichTools.java",
+      "source_location": "L35",
+      "id": "voiceagent_sandwichtools_sandwichtools_confirmorder",
+      "community": 8,
+      "norm_label": ".confirmorder()"
+    },
+    {
+      "label": "VoiceAgentApplication.java",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/VoiceAgentApplication.java",
+      "source_location": "L1",
+      "id": "java_com_alibaba_cloud_ai_examples_voiceagent_voiceagentapplication_java",
+      "community": 11,
+      "norm_label": "voiceagentapplication.java"
+    },
+    {
+      "label": "VoiceAgentApplication",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/VoiceAgentApplication.java",
+      "source_location": "L21",
+      "id": "voiceagent_voiceagentapplication_voiceagentapplication",
+      "community": 11,
+      "norm_label": "voiceagentapplication"
+    },
+    {
+      "label": ".main()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/VoiceAgentApplication.java",
+      "source_location": "L24",
+      "id": "voiceagent_voiceagentapplication_voiceagentapplication_main",
+      "community": 11,
+      "norm_label": ".main()"
+    },
+    {
+      "label": "RealtimeVoiceConfig.java",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/RealtimeVoiceConfig.java",
+      "source_location": "L1",
+      "id": "java_com_alibaba_cloud_ai_examples_voiceagent_realtimevoiceconfig_java",
+      "community": 12,
+      "norm_label": "realtimevoiceconfig.java"
+    },
+    {
+      "label": "RealtimeVoiceConfig",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/RealtimeVoiceConfig.java",
+      "source_location": "L35",
+      "id": "voiceagent_realtimevoiceconfig_realtimevoiceconfig",
+      "community": 12,
+      "norm_label": "realtimevoiceconfig"
+    },
+    {
+      "label": ".dashScopeAudioTranscriptionModel()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/RealtimeVoiceConfig.java",
+      "source_location": "L39",
+      "id": "voiceagent_realtimevoiceconfig_realtimevoiceconfig_dashscopeaudiotranscriptionmodel",
+      "community": 12,
+      "norm_label": ".dashscopeaudiotranscriptionmodel()"
+    },
+    {
+      "label": "RealtimeVoiceAgentStreamService.java",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/RealtimeVoiceAgentStreamService.java",
+      "source_location": "L1",
+      "id": "java_com_alibaba_cloud_ai_examples_voiceagent_stream_realtimevoiceagentstreamservice_java",
+      "community": 5,
+      "norm_label": "realtimevoiceagentstreamservice.java"
+    },
+    {
+      "label": "RealtimeVoiceAgentStreamService",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/RealtimeVoiceAgentStreamService.java",
+      "source_location": "L49",
+      "id": "stream_realtimevoiceagentstreamservice_realtimevoiceagentstreamservice",
+      "community": 5,
+      "norm_label": "realtimevoiceagentstreamservice"
+    },
+    {
+      "label": ".RealtimeVoiceAgentStreamService()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/RealtimeVoiceAgentStreamService.java",
+      "source_location": "L58",
+      "id": "stream_realtimevoiceagentstreamservice_realtimevoiceagentstreamservice_realtimevoiceagentstreamservice",
+      "community": 5,
+      "norm_label": ".realtimevoiceagentstreamservice()"
+    },
+    {
+      "label": ".streamWithAudioRealtime()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/RealtimeVoiceAgentStreamService.java",
+      "source_location": "L70",
+      "id": "stream_realtimevoiceagentstreamservice_realtimevoiceagentstreamservice_streamwithaudiorealtime",
+      "community": 5,
+      "norm_label": ".streamwithaudiorealtime()"
+    },
+    {
+      "label": ".runAgentWithStreamingTts()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/RealtimeVoiceAgentStreamService.java",
+      "source_location": "L128",
+      "id": "stream_realtimevoiceagentstreamservice_realtimevoiceagentstreamservice_runagentwithstreamingtts",
+      "community": 5,
+      "norm_label": ".runagentwithstreamingtts()"
+    },
+    {
+      "label": ".extractAudio()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/RealtimeVoiceAgentStreamService.java",
+      "source_location": "L175",
+      "id": "stream_realtimevoiceagentstreamservice_realtimevoiceagentstreamservice_extractaudio",
+      "community": 5,
+      "norm_label": ".extractaudio()"
+    },
+    {
+      "label": ".parseArgs()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/RealtimeVoiceAgentStreamService.java",
+      "source_location": "L183",
+      "id": "stream_realtimevoiceagentstreamservice_realtimevoiceagentstreamservice_parseargs",
+      "community": 5,
+      "norm_label": ".parseargs()"
+    },
+    {
+      "label": "WebSocketConfig.java",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/WebSocketConfig.java",
+      "source_location": "L1",
+      "id": "java_com_alibaba_cloud_ai_examples_voiceagent_stream_websocketconfig_java",
+      "community": 6,
+      "norm_label": "websocketconfig.java"
+    },
+    {
+      "label": "WebSocketConfig",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/WebSocketConfig.java",
+      "source_location": "L23",
+      "id": "stream_websocketconfig_websocketconfig",
+      "community": 6,
+      "norm_label": "websocketconfig"
+    },
+    {
+      "label": "WebSocketConfigurer",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "websocketconfigurer",
+      "community": 6,
+      "norm_label": "websocketconfigurer"
+    },
+    {
+      "label": ".WebSocketConfig()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/WebSocketConfig.java",
+      "source_location": "L31",
+      "id": "stream_websocketconfig_websocketconfig_websocketconfig",
+      "community": 6,
+      "norm_label": ".websocketconfig()"
+    },
+    {
+      "label": ".registerWebSocketHandlers()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/WebSocketConfig.java",
+      "source_location": "L37",
+      "id": "stream_websocketconfig_websocketconfig_registerwebsockethandlers",
+      "community": 6,
+      "norm_label": ".registerwebsockethandlers()"
+    },
+    {
+      "label": "VoiceAgentStreamService.java",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentStreamService.java",
+      "source_location": "L1",
+      "id": "java_com_alibaba_cloud_ai_examples_voiceagent_stream_voiceagentstreamservice_java",
+      "community": 2,
+      "norm_label": "voiceagentstreamservice.java"
+    },
+    {
+      "label": "VoiceAgentStreamService",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentStreamService.java",
+      "source_location": "L52",
+      "id": "stream_voiceagentstreamservice_voiceagentstreamservice",
+      "community": 2,
+      "norm_label": "voiceagentstreamservice"
+    },
+    {
+      "label": ".VoiceAgentStreamService()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentStreamService.java",
+      "source_location": "L61",
+      "id": "stream_voiceagentstreamservice_voiceagentstreamservice_voiceagentstreamservice",
+      "community": 2,
+      "norm_label": ".voiceagentstreamservice()"
+    },
+    {
+      "label": ".streamWithText()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentStreamService.java",
+      "source_location": "L74",
+      "id": "stream_voiceagentstreamservice_voiceagentstreamservice_streamwithtext",
+      "community": 2,
+      "norm_label": ".streamwithtext()"
+    },
+    {
+      "label": ".streamWithTextAndStreamingTts()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentStreamService.java",
+      "source_location": "L85",
+      "id": "stream_voiceagentstreamservice_voiceagentstreamservice_streamwithtextandstreamingtts",
+      "community": 2,
+      "norm_label": ".streamwithtextandstreamingtts()"
+    },
+    {
+      "label": ".streamWithTextAndFullTextTts()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentStreamService.java",
+      "source_location": "L132",
+      "id": "stream_voiceagentstreamservice_voiceagentstreamservice_streamwithtextandfulltexttts",
+      "community": 2,
+      "norm_label": ".streamwithtextandfulltexttts()"
+    },
+    {
+      "label": ".streamWithAudio()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentStreamService.java",
+      "source_location": "L182",
+      "id": "stream_voiceagentstreamservice_voiceagentstreamservice_streamwithaudio",
+      "community": 2,
+      "norm_label": ".streamwithaudio()"
+    },
+    {
+      "label": ".streamTts()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentStreamService.java",
+      "source_location": "L196",
+      "id": "stream_voiceagentstreamservice_voiceagentstreamservice_streamtts",
+      "community": 1,
+      "norm_label": ".streamtts()"
+    },
+    {
+      "label": ".extractAudio()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentStreamService.java",
+      "source_location": "L210",
+      "id": "stream_voiceagentstreamservice_voiceagentstreamservice_extractaudio",
+      "community": 2,
+      "norm_label": ".extractaudio()"
+    },
+    {
+      "label": ".transcribe()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentStreamService.java",
+      "source_location": "L218",
+      "id": "stream_voiceagentstreamservice_voiceagentstreamservice_transcribe",
+      "community": 2,
+      "norm_label": ".transcribe()"
+    },
+    {
+      "label": ".ensureWavFormat()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentStreamService.java",
+      "source_location": "L229",
+      "id": "stream_voiceagentstreamservice_voiceagentstreamservice_ensurewavformat",
+      "community": 2,
+      "norm_label": ".ensurewavformat()"
+    },
+    {
+      "label": ".prependWavHeader()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentStreamService.java",
+      "source_location": "L240",
+      "id": "stream_voiceagentstreamservice_voiceagentstreamservice_prependwavheader",
+      "community": 2,
+      "norm_label": ".prependwavheader()"
+    },
+    {
+      "label": ".parseArgs()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentStreamService.java",
+      "source_location": "L294",
+      "id": "stream_voiceagentstreamservice_voiceagentstreamservice_parseargs",
+      "community": 2,
+      "norm_label": ".parseargs()"
+    },
+    {
+      "label": "VoiceAgentWebSocketHandler.java",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentWebSocketHandler.java",
+      "source_location": "L1",
+      "id": "java_com_alibaba_cloud_ai_examples_voiceagent_stream_voiceagentwebsockethandler_java",
+      "community": 1,
+      "norm_label": "voiceagentwebsockethandler.java"
+    },
+    {
+      "label": "VoiceAgentWebSocketHandler",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentWebSocketHandler.java",
+      "source_location": "L39",
+      "id": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler",
+      "community": 1,
+      "norm_label": "voiceagentwebsockethandler"
+    },
+    {
+      "label": "TextWebSocketHandler",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "textwebsockethandler",
+      "community": 1,
+      "norm_label": "textwebsockethandler"
+    },
+    {
+      "label": ".VoiceAgentWebSocketHandler()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentWebSocketHandler.java",
+      "source_location": "L48",
+      "id": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_voiceagentwebsockethandler",
+      "community": 1,
+      "norm_label": ".voiceagentwebsockethandler()"
+    },
+    {
+      "label": ".afterConnectionEstablished()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentWebSocketHandler.java",
+      "source_location": "L52",
+      "id": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_afterconnectionestablished",
+      "community": 1,
+      "norm_label": ".afterconnectionestablished()"
+    },
+    {
+      "label": ".handleTextMessage()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentWebSocketHandler.java",
+      "source_location": "L57",
+      "id": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_handletextmessage",
+      "community": 1,
+      "norm_label": ".handletextmessage()"
+    },
+    {
+      "label": ".afterConnectionClosed()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentWebSocketHandler.java",
+      "source_location": "L77",
+      "id": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_afterconnectionclosed",
+      "community": 1,
+      "norm_label": ".afterconnectionclosed()"
+    },
+    {
+      "label": ".parseInput()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentWebSocketHandler.java",
+      "source_location": "L82",
+      "id": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_parseinput",
+      "community": 1,
+      "norm_label": ".parseinput()"
+    },
+    {
+      "label": ".runStream()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentWebSocketHandler.java",
+      "source_location": "L99",
+      "id": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_runstream",
+      "community": 1,
+      "norm_label": ".runstream()"
+    },
+    {
+      "label": ".runTtsStream()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentWebSocketHandler.java",
+      "source_location": "L111",
+      "id": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_runttsstream",
+      "community": 1,
+      "norm_label": ".runttsstream()"
+    },
+    {
+      "label": ".sendEvent()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentWebSocketHandler.java",
+      "source_location": "L123",
+      "id": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_sendevent",
+      "community": 1,
+      "norm_label": ".sendevent()"
+    },
+    {
+      "label": ".sendError()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentWebSocketHandler.java",
+      "source_location": "L136",
+      "id": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_senderror",
+      "community": 1,
+      "norm_label": ".senderror()"
+    },
+    {
+      "label": ".toJson()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentWebSocketHandler.java",
+      "source_location": "L149",
+      "id": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_tojson",
+      "community": 1,
+      "norm_label": ".tojson()"
+    },
+    {
+      "label": "VoiceAgentEvent.java",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentEvent.java",
+      "source_location": "L1",
+      "id": "java_com_alibaba_cloud_ai_examples_voiceagent_stream_voiceagentevent_java",
+      "community": 0,
+      "norm_label": "voiceagentevent.java"
+    },
+    {
+      "label": "VoiceAgentEvent",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentEvent.java",
+      "source_location": "L23",
+      "id": "stream_voiceagentevent_voiceagentevent",
+      "community": 0,
+      "norm_label": "voiceagentevent"
+    },
+    {
+      "label": ".type()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentEvent.java",
+      "source_location": "L28",
+      "id": "stream_voiceagentevent_voiceagentevent_type",
+      "community": 0,
+      "norm_label": ".type()"
+    },
+    {
+      "label": ".ts()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentEvent.java",
+      "source_location": "L30",
+      "id": "stream_voiceagentevent_voiceagentevent_ts",
+      "community": 0,
+      "norm_label": ".ts()"
+    },
+    {
+      "label": "create()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentEvent.java",
+      "source_location": "L33",
+      "id": "stream_voiceagentevent_create",
+      "community": 2,
+      "norm_label": "create()"
+    },
+    {
+      "label": "VoiceAgentAudioWebSocketHandler.java",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentAudioWebSocketHandler.java",
+      "source_location": "L1",
+      "id": "java_com_alibaba_cloud_ai_examples_voiceagent_stream_voiceagentaudiowebsockethandler_java",
+      "community": 0,
+      "norm_label": "voiceagentaudiowebsockethandler.java"
+    },
+    {
+      "label": "VoiceAgentAudioWebSocketHandler",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentAudioWebSocketHandler.java",
+      "source_location": "L42",
+      "id": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler",
+      "community": 0,
+      "norm_label": "voiceagentaudiowebsockethandler"
+    },
+    {
+      "label": "AbstractWebSocketHandler",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "abstractwebsockethandler",
+      "community": 0,
+      "norm_label": "abstractwebsockethandler"
+    },
+    {
+      "label": ".VoiceAgentAudioWebSocketHandler()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentAudioWebSocketHandler.java",
+      "source_location": "L53",
+      "id": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler",
+      "community": 0,
+      "norm_label": ".voiceagentaudiowebsockethandler()"
+    },
+    {
+      "label": ".afterConnectionEstablished()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentAudioWebSocketHandler.java",
+      "source_location": "L57",
+      "id": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_afterconnectionestablished",
+      "community": 0,
+      "norm_label": ".afterconnectionestablished()"
+    },
+    {
+      "label": ".handleBinaryMessage()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentAudioWebSocketHandler.java",
+      "source_location": "L64",
+      "id": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_handlebinarymessage",
+      "community": 0,
+      "norm_label": ".handlebinarymessage()"
+    },
+    {
+      "label": ".handleTextMessage()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentAudioWebSocketHandler.java",
+      "source_location": "L75",
+      "id": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_handletextmessage",
+      "community": 0,
+      "norm_label": ".handletextmessage()"
+    },
+    {
+      "label": ".afterConnectionClosed()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentAudioWebSocketHandler.java",
+      "source_location": "L106",
+      "id": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_afterconnectionclosed",
+      "community": 0,
+      "norm_label": ".afterconnectionclosed()"
+    },
+    {
+      "label": ".parseType()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentAudioWebSocketHandler.java",
+      "source_location": "L112",
+      "id": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_parsetype",
+      "community": 0,
+      "norm_label": ".parsetype()"
+    },
+    {
+      "label": ".getAudioSink()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentAudioWebSocketHandler.java",
+      "source_location": "L124",
+      "id": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_getaudiosink",
+      "community": 0,
+      "norm_label": ".getaudiosink()"
+    },
+    {
+      "label": ".runRealtimeStream()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentAudioWebSocketHandler.java",
+      "source_location": "L129",
+      "id": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_runrealtimestream",
+      "community": 0,
+      "norm_label": ".runrealtimestream()"
+    },
+    {
+      "label": ".sendEvent()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentAudioWebSocketHandler.java",
+      "source_location": "L141",
+      "id": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_sendevent",
+      "community": 0,
+      "norm_label": ".sendevent()"
+    },
+    {
+      "label": ".sendError()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentAudioWebSocketHandler.java",
+      "source_location": "L154",
+      "id": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_senderror",
+      "community": 0,
+      "norm_label": ".senderror()"
+    },
+    {
+      "label": ".toJson()",
+      "file_type": "code",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentAudioWebSocketHandler.java",
+      "source_location": "L167",
+      "id": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_tojson",
+      "community": 0,
+      "norm_label": ".tojson()"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "resources_static_js_voice_js",
+      "target": "js_voice_el",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L80",
+      "weight": 1.0,
+      "source": "resources_static_js_voice_js",
+      "target": "js_voice_setstatus",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L93",
+      "weight": 1.0,
+      "source": "resources_static_js_voice_js",
+      "target": "js_voice_formattime",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L97",
+      "weight": 1.0,
+      "source": "resources_static_js_voice_js",
+      "target": "js_voice_addactivity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L124",
+      "weight": 1.0,
+      "source": "resources_static_js_voice_js",
+      "target": "js_voice_escapehtml",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L130",
+      "weight": 1.0,
+      "source": "resources_static_js_voice_js",
+      "target": "js_voice_addlog",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L145",
+      "weight": 1.0,
+      "source": "resources_static_js_voice_js",
+      "target": "js_voice_clearactivity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L149",
+      "weight": 1.0,
+      "source": "resources_static_js_voice_js",
+      "target": "js_voice_clearlogs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L153",
+      "weight": 1.0,
+      "source": "resources_static_js_voice_js",
+      "target": "js_voice_resetpipeline",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L162",
+      "weight": 1.0,
+      "source": "resources_static_js_voice_js",
+      "target": "js_voice_startturn",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L167",
+      "weight": 1.0,
+      "source": "resources_static_js_voice_js",
+      "target": "js_voice_finishturn",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L173",
+      "weight": 1.0,
+      "source": "resources_static_js_voice_js",
+      "target": "js_voice_ttsbuffer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L175",
+      "weight": 1.0,
+      "source": "resources_static_js_voice_js",
+      "target": "js_voice_ttsplayqueue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L180",
+      "weight": 1.0,
+      "source": "resources_static_js_voice_js",
+      "target": "js_voice_pushttschunk",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L184",
+      "weight": 1.0,
+      "source": "resources_static_js_voice_js",
+      "target": "js_voice_flushttstoqueue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L194",
+      "weight": 1.0,
+      "source": "resources_static_js_voice_js",
+      "target": "js_voice_playnextttsinqueue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L220",
+      "weight": 1.0,
+      "source": "resources_static_js_voice_js",
+      "target": "js_voice_stopttsplayback",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L234",
+      "weight": 1.0,
+      "source": "resources_static_js_voice_js",
+      "target": "js_voice_handleevent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L329",
+      "weight": 1.0,
+      "source": "resources_static_js_voice_js",
+      "target": "js_voice_startaudiocapture",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L349",
+      "weight": 1.0,
+      "source": "resources_static_js_voice_js",
+      "target": "js_voice_stopaudiocapture",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L364",
+      "weight": 1.0,
+      "source": "resources_static_js_voice_js",
+      "target": "js_voice_start",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L421",
+      "weight": 1.0,
+      "source": "resources_static_js_voice_js",
+      "target": "js_voice_stop",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L451",
+      "weight": 1.0,
+      "source": "resources_static_js_voice_js",
+      "target": "js_voice_finalizestop",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L475",
+      "weight": 1.0,
+      "source": "resources_static_js_voice_js",
+      "target": "js_voice_sendtext",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L324",
+      "weight": 1.0,
+      "source": "js_voice_handleevent",
+      "target": "js_voice_setstatus",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L369",
+      "weight": 1.0,
+      "source": "js_voice_start",
+      "target": "js_voice_setstatus",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L471",
+      "weight": 1.0,
+      "source": "js_voice_finalizestop",
+      "target": "js_voice_setstatus",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L113",
+      "weight": 1.0,
+      "source": "js_voice_addactivity",
+      "target": "js_voice_formattime",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L136",
+      "weight": 1.0,
+      "source": "js_voice_addlog",
+      "target": "js_voice_formattime",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L110",
+      "weight": 1.0,
+      "source": "js_voice_addactivity",
+      "target": "js_voice_escapehtml",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L244",
+      "weight": 1.0,
+      "source": "js_voice_handleevent",
+      "target": "js_voice_addactivity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L482",
+      "weight": 1.0,
+      "source": "js_voice_sendtext",
+      "target": "js_voice_addactivity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L136",
+      "weight": 1.0,
+      "source": "js_voice_addlog",
+      "target": "js_voice_escapehtml",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L254",
+      "weight": 1.0,
+      "source": "js_voice_handleevent",
+      "target": "js_voice_addlog",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L434",
+      "weight": 1.0,
+      "source": "js_voice_stop",
+      "target": "js_voice_addlog",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L461",
+      "weight": 1.0,
+      "source": "js_voice_finalizestop",
+      "target": "js_voice_addlog",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L366",
+      "weight": 1.0,
+      "source": "js_voice_start",
+      "target": "js_voice_clearactivity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L367",
+      "weight": 1.0,
+      "source": "js_voice_start",
+      "target": "js_voice_clearlogs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L365",
+      "weight": 1.0,
+      "source": "js_voice_start",
+      "target": "js_voice_resetpipeline",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L480",
+      "weight": 1.0,
+      "source": "js_voice_sendtext",
+      "target": "js_voice_resetpipeline",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L481",
+      "weight": 1.0,
+      "source": "js_voice_sendtext",
+      "target": "js_voice_startturn",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L302",
+      "weight": 1.0,
+      "source": "js_voice_handleevent",
+      "target": "js_voice_finishturn",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L472",
+      "weight": 1.0,
+      "source": "js_voice_finalizestop",
+      "target": "js_voice_finishturn",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L283",
+      "weight": 1.0,
+      "source": "js_voice_handleevent",
+      "target": "js_voice_pushttschunk",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L191",
+      "weight": 1.0,
+      "source": "js_voice_flushttstoqueue",
+      "target": "js_voice_playnextttsinqueue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L301",
+      "weight": 1.0,
+      "source": "js_voice_handleevent",
+      "target": "js_voice_flushttstoqueue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L318",
+      "weight": 1.0,
+      "source": "js_voice_handleevent",
+      "target": "js_voice_playnextttsinqueue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L368",
+      "weight": 1.0,
+      "source": "js_voice_start",
+      "target": "js_voice_stopttsplayback",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L429",
+      "weight": 1.0,
+      "source": "js_voice_stop",
+      "target": "js_voice_stopttsplayback",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L430",
+      "weight": 1.0,
+      "source": "js_voice_stop",
+      "target": "js_voice_stopaudiocapture",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "resources/static/js/voice.js",
+      "source_location": "L447",
+      "weight": 1.0,
+      "source": "js_voice_stop",
+      "target": "js_voice_finalizestop",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/VoiceAgentConfig.java",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "java_com_alibaba_cloud_ai_examples_voiceagent_voiceagentconfig_java",
+      "target": "voiceagent_voiceagentconfig_voiceagentconfig",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/VoiceAgentConfig.java",
+      "source_location": "L41",
+      "weight": 1.0,
+      "source": "voiceagent_voiceagentconfig_voiceagentconfig",
+      "target": "voiceagent_voiceagentconfig_voiceagentconfig_sandwichagent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/SandwichTools.java",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "java_com_alibaba_cloud_ai_examples_voiceagent_sandwichtools_java",
+      "target": "voiceagent_sandwichtools_sandwichtools",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/SandwichTools.java",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "voiceagent_sandwichtools_sandwichtools",
+      "target": "voiceagent_sandwichtools_sandwichtools_addtoorder",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/SandwichTools.java",
+      "source_location": "L35",
+      "weight": 1.0,
+      "source": "voiceagent_sandwichtools_sandwichtools",
+      "target": "voiceagent_sandwichtools_sandwichtools_confirmorder",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/VoiceAgentApplication.java",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "java_com_alibaba_cloud_ai_examples_voiceagent_voiceagentapplication_java",
+      "target": "voiceagent_voiceagentapplication_voiceagentapplication",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/VoiceAgentApplication.java",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "voiceagent_voiceagentapplication_voiceagentapplication",
+      "target": "voiceagent_voiceagentapplication_voiceagentapplication_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/RealtimeVoiceConfig.java",
+      "source_location": "L35",
+      "weight": 1.0,
+      "source": "java_com_alibaba_cloud_ai_examples_voiceagent_realtimevoiceconfig_java",
+      "target": "voiceagent_realtimevoiceconfig_realtimevoiceconfig",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/RealtimeVoiceConfig.java",
+      "source_location": "L39",
+      "weight": 1.0,
+      "source": "voiceagent_realtimevoiceconfig_realtimevoiceconfig",
+      "target": "voiceagent_realtimevoiceconfig_realtimevoiceconfig_dashscopeaudiotranscriptionmodel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/RealtimeVoiceAgentStreamService.java",
+      "source_location": "L49",
+      "weight": 1.0,
+      "source": "java_com_alibaba_cloud_ai_examples_voiceagent_stream_realtimevoiceagentstreamservice_java",
+      "target": "stream_realtimevoiceagentstreamservice_realtimevoiceagentstreamservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/RealtimeVoiceAgentStreamService.java",
+      "source_location": "L58",
+      "weight": 1.0,
+      "source": "stream_realtimevoiceagentstreamservice_realtimevoiceagentstreamservice",
+      "target": "stream_realtimevoiceagentstreamservice_realtimevoiceagentstreamservice_realtimevoiceagentstreamservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/RealtimeVoiceAgentStreamService.java",
+      "source_location": "L70",
+      "weight": 1.0,
+      "source": "stream_realtimevoiceagentstreamservice_realtimevoiceagentstreamservice",
+      "target": "stream_realtimevoiceagentstreamservice_realtimevoiceagentstreamservice_streamwithaudiorealtime",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/RealtimeVoiceAgentStreamService.java",
+      "source_location": "L128",
+      "weight": 1.0,
+      "source": "stream_realtimevoiceagentstreamservice_realtimevoiceagentstreamservice",
+      "target": "stream_realtimevoiceagentstreamservice_realtimevoiceagentstreamservice_runagentwithstreamingtts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/RealtimeVoiceAgentStreamService.java",
+      "source_location": "L175",
+      "weight": 1.0,
+      "source": "stream_realtimevoiceagentstreamservice_realtimevoiceagentstreamservice",
+      "target": "stream_realtimevoiceagentstreamservice_realtimevoiceagentstreamservice_extractaudio",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/RealtimeVoiceAgentStreamService.java",
+      "source_location": "L183",
+      "weight": 1.0,
+      "source": "stream_realtimevoiceagentstreamservice_realtimevoiceagentstreamservice",
+      "target": "stream_realtimevoiceagentstreamservice_realtimevoiceagentstreamservice_parseargs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/RealtimeVoiceAgentStreamService.java",
+      "source_location": "L118",
+      "weight": 1.0,
+      "source": "stream_realtimevoiceagentstreamservice_realtimevoiceagentstreamservice_streamwithaudiorealtime",
+      "target": "stream_realtimevoiceagentstreamservice_realtimevoiceagentstreamservice_runagentwithstreamingtts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/RealtimeVoiceAgentStreamService.java",
+      "source_location": "L100",
+      "weight": 1.0,
+      "source": "stream_realtimevoiceagentstreamservice_realtimevoiceagentstreamservice_streamwithaudiorealtime",
+      "target": "stream_voiceagentevent_create"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentAudioWebSocketHandler.java",
+      "source_location": "L130",
+      "weight": 1.0,
+      "source": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_runrealtimestream",
+      "target": "stream_realtimevoiceagentstreamservice_realtimevoiceagentstreamservice_streamwithaudiorealtime"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/RealtimeVoiceAgentStreamService.java",
+      "source_location": "L146",
+      "weight": 1.0,
+      "source": "stream_realtimevoiceagentstreamservice_realtimevoiceagentstreamservice_runagentwithstreamingtts",
+      "target": "stream_realtimevoiceagentstreamservice_realtimevoiceagentstreamservice_parseargs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/RealtimeVoiceAgentStreamService.java",
+      "source_location": "L165",
+      "weight": 1.0,
+      "source": "stream_realtimevoiceagentstreamservice_realtimevoiceagentstreamservice_runagentwithstreamingtts",
+      "target": "stream_realtimevoiceagentstreamservice_realtimevoiceagentstreamservice_extractaudio",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/RealtimeVoiceAgentStreamService.java",
+      "source_location": "L145",
+      "weight": 1.0,
+      "source": "stream_realtimevoiceagentstreamservice_realtimevoiceagentstreamservice_runagentwithstreamingtts",
+      "target": "stream_voiceagentevent_create"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/WebSocketConfig.java",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "java_com_alibaba_cloud_ai_examples_voiceagent_stream_websocketconfig_java",
+      "target": "websocketconfigurer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/WebSocketConfig.java",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "java_com_alibaba_cloud_ai_examples_voiceagent_stream_websocketconfig_java",
+      "target": "stream_websocketconfig_websocketconfig",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/WebSocketConfig.java",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "stream_websocketconfig_websocketconfig",
+      "target": "websocketconfigurer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/WebSocketConfig.java",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "stream_websocketconfig_websocketconfig",
+      "target": "stream_websocketconfig_websocketconfig_websocketconfig",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/WebSocketConfig.java",
+      "source_location": "L37",
+      "weight": 1.0,
+      "source": "stream_websocketconfig_websocketconfig",
+      "target": "stream_websocketconfig_websocketconfig_registerwebsockethandlers",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentStreamService.java",
+      "source_location": "L52",
+      "weight": 1.0,
+      "source": "java_com_alibaba_cloud_ai_examples_voiceagent_stream_voiceagentstreamservice_java",
+      "target": "stream_voiceagentstreamservice_voiceagentstreamservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentStreamService.java",
+      "source_location": "L61",
+      "weight": 1.0,
+      "source": "stream_voiceagentstreamservice_voiceagentstreamservice",
+      "target": "stream_voiceagentstreamservice_voiceagentstreamservice_voiceagentstreamservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentStreamService.java",
+      "source_location": "L74",
+      "weight": 1.0,
+      "source": "stream_voiceagentstreamservice_voiceagentstreamservice",
+      "target": "stream_voiceagentstreamservice_voiceagentstreamservice_streamwithtext",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentStreamService.java",
+      "source_location": "L85",
+      "weight": 1.0,
+      "source": "stream_voiceagentstreamservice_voiceagentstreamservice",
+      "target": "stream_voiceagentstreamservice_voiceagentstreamservice_streamwithtextandstreamingtts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentStreamService.java",
+      "source_location": "L132",
+      "weight": 1.0,
+      "source": "stream_voiceagentstreamservice_voiceagentstreamservice",
+      "target": "stream_voiceagentstreamservice_voiceagentstreamservice_streamwithtextandfulltexttts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentStreamService.java",
+      "source_location": "L182",
+      "weight": 1.0,
+      "source": "stream_voiceagentstreamservice_voiceagentstreamservice",
+      "target": "stream_voiceagentstreamservice_voiceagentstreamservice_streamwithaudio",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentStreamService.java",
+      "source_location": "L196",
+      "weight": 1.0,
+      "source": "stream_voiceagentstreamservice_voiceagentstreamservice",
+      "target": "stream_voiceagentstreamservice_voiceagentstreamservice_streamtts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentStreamService.java",
+      "source_location": "L210",
+      "weight": 1.0,
+      "source": "stream_voiceagentstreamservice_voiceagentstreamservice",
+      "target": "stream_voiceagentstreamservice_voiceagentstreamservice_extractaudio",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentStreamService.java",
+      "source_location": "L218",
+      "weight": 1.0,
+      "source": "stream_voiceagentstreamservice_voiceagentstreamservice",
+      "target": "stream_voiceagentstreamservice_voiceagentstreamservice_transcribe",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentStreamService.java",
+      "source_location": "L229",
+      "weight": 1.0,
+      "source": "stream_voiceagentstreamservice_voiceagentstreamservice",
+      "target": "stream_voiceagentstreamservice_voiceagentstreamservice_ensurewavformat",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentStreamService.java",
+      "source_location": "L240",
+      "weight": 1.0,
+      "source": "stream_voiceagentstreamservice_voiceagentstreamservice",
+      "target": "stream_voiceagentstreamservice_voiceagentstreamservice_prependwavheader",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentStreamService.java",
+      "source_location": "L294",
+      "weight": 1.0,
+      "source": "stream_voiceagentstreamservice_voiceagentstreamservice",
+      "target": "stream_voiceagentstreamservice_voiceagentstreamservice_parseargs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentStreamService.java",
+      "source_location": "L76",
+      "weight": 1.0,
+      "source": "stream_voiceagentstreamservice_voiceagentstreamservice_streamwithtext",
+      "target": "stream_voiceagentstreamservice_voiceagentstreamservice_streamwithtextandstreamingtts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentStreamService.java",
+      "source_location": "L78",
+      "weight": 1.0,
+      "source": "stream_voiceagentstreamservice_voiceagentstreamservice_streamwithtext",
+      "target": "stream_voiceagentstreamservice_voiceagentstreamservice_streamwithtextandfulltexttts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentStreamService.java",
+      "source_location": "L190",
+      "weight": 1.0,
+      "source": "stream_voiceagentstreamservice_voiceagentstreamservice_streamwithaudio",
+      "target": "stream_voiceagentstreamservice_voiceagentstreamservice_streamwithtext",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentWebSocketHandler.java",
+      "source_location": "L100",
+      "weight": 1.0,
+      "source": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_runstream",
+      "target": "stream_voiceagentstreamservice_voiceagentstreamservice_streamwithtext"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentStreamService.java",
+      "source_location": "L103",
+      "weight": 1.0,
+      "source": "stream_voiceagentstreamservice_voiceagentstreamservice_streamwithtextandstreamingtts",
+      "target": "stream_voiceagentstreamservice_voiceagentstreamservice_parseargs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentStreamService.java",
+      "source_location": "L102",
+      "weight": 1.0,
+      "source": "stream_voiceagentstreamservice_voiceagentstreamservice_streamwithtextandstreamingtts",
+      "target": "stream_voiceagentevent_create"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentStreamService.java",
+      "source_location": "L141",
+      "weight": 1.0,
+      "source": "stream_voiceagentstreamservice_voiceagentstreamservice_streamwithtextandfulltexttts",
+      "target": "stream_voiceagentstreamservice_voiceagentstreamservice_parseargs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentStreamService.java",
+      "source_location": "L140",
+      "weight": 1.0,
+      "source": "stream_voiceagentstreamservice_voiceagentstreamservice_streamwithtextandfulltexttts",
+      "target": "stream_voiceagentevent_create"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentStreamService.java",
+      "source_location": "L186",
+      "weight": 1.0,
+      "source": "stream_voiceagentstreamservice_voiceagentstreamservice_streamwithaudio",
+      "target": "stream_voiceagentstreamservice_voiceagentstreamservice_ensurewavformat",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentStreamService.java",
+      "source_location": "L188",
+      "weight": 1.0,
+      "source": "stream_voiceagentstreamservice_voiceagentstreamservice_streamwithaudio",
+      "target": "stream_voiceagentstreamservice_voiceagentstreamservice_transcribe",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentStreamService.java",
+      "source_location": "L189",
+      "weight": 1.0,
+      "source": "stream_voiceagentstreamservice_voiceagentstreamservice_streamwithaudio",
+      "target": "stream_voiceagentevent_create"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentWebSocketHandler.java",
+      "source_location": "L112",
+      "weight": 1.0,
+      "source": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_runttsstream",
+      "target": "stream_voiceagentstreamservice_voiceagentstreamservice_streamtts"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentStreamService.java",
+      "source_location": "L237",
+      "weight": 1.0,
+      "source": "stream_voiceagentstreamservice_voiceagentstreamservice_ensurewavformat",
+      "target": "stream_voiceagentstreamservice_voiceagentstreamservice_prependwavheader",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentWebSocketHandler.java",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "java_com_alibaba_cloud_ai_examples_voiceagent_stream_voiceagentwebsockethandler_java",
+      "target": "textwebsockethandler",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentWebSocketHandler.java",
+      "source_location": "L39",
+      "weight": 1.0,
+      "source": "java_com_alibaba_cloud_ai_examples_voiceagent_stream_voiceagentwebsockethandler_java",
+      "target": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentWebSocketHandler.java",
+      "source_location": "L39",
+      "weight": 1.0,
+      "source": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler",
+      "target": "textwebsockethandler",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentWebSocketHandler.java",
+      "source_location": "L48",
+      "weight": 1.0,
+      "source": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler",
+      "target": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_voiceagentwebsockethandler",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentWebSocketHandler.java",
+      "source_location": "L52",
+      "weight": 1.0,
+      "source": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler",
+      "target": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_afterconnectionestablished",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentWebSocketHandler.java",
+      "source_location": "L57",
+      "weight": 1.0,
+      "source": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler",
+      "target": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_handletextmessage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentWebSocketHandler.java",
+      "source_location": "L77",
+      "weight": 1.0,
+      "source": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler",
+      "target": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_afterconnectionclosed",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentWebSocketHandler.java",
+      "source_location": "L82",
+      "weight": 1.0,
+      "source": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler",
+      "target": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_parseinput",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentWebSocketHandler.java",
+      "source_location": "L99",
+      "weight": 1.0,
+      "source": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler",
+      "target": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_runstream",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentWebSocketHandler.java",
+      "source_location": "L111",
+      "weight": 1.0,
+      "source": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler",
+      "target": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_runttsstream",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentWebSocketHandler.java",
+      "source_location": "L123",
+      "weight": 1.0,
+      "source": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler",
+      "target": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_sendevent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentWebSocketHandler.java",
+      "source_location": "L136",
+      "weight": 1.0,
+      "source": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler",
+      "target": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_senderror",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentWebSocketHandler.java",
+      "source_location": "L149",
+      "weight": 1.0,
+      "source": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler",
+      "target": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_tojson",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentWebSocketHandler.java",
+      "source_location": "L61",
+      "weight": 1.0,
+      "source": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_handletextmessage",
+      "target": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_senderror",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentWebSocketHandler.java",
+      "source_location": "L64",
+      "weight": 1.0,
+      "source": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_handletextmessage",
+      "target": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_parseinput",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentWebSocketHandler.java",
+      "source_location": "L70",
+      "weight": 1.0,
+      "source": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_handletextmessage",
+      "target": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_runttsstream",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentWebSocketHandler.java",
+      "source_location": "L73",
+      "weight": 1.0,
+      "source": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_handletextmessage",
+      "target": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_runstream",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentWebSocketHandler.java",
+      "source_location": "L102",
+      "weight": 1.0,
+      "source": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_runstream",
+      "target": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_sendevent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentWebSocketHandler.java",
+      "source_location": "L103",
+      "weight": 1.0,
+      "source": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_runstream",
+      "target": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_senderror",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentWebSocketHandler.java",
+      "source_location": "L114",
+      "weight": 1.0,
+      "source": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_runttsstream",
+      "target": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_sendevent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentWebSocketHandler.java",
+      "source_location": "L115",
+      "weight": 1.0,
+      "source": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_runttsstream",
+      "target": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_senderror",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentWebSocketHandler.java",
+      "source_location": "L128",
+      "weight": 1.0,
+      "source": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_sendevent",
+      "target": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_tojson",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentWebSocketHandler.java",
+      "source_location": "L151",
+      "weight": 1.0,
+      "source": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_tojson",
+      "target": "stream_voiceagentevent_voiceagentevent_type"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentWebSocketHandler.java",
+      "source_location": "L151",
+      "weight": 1.0,
+      "source": "stream_voiceagentwebsockethandler_voiceagentwebsockethandler_tojson",
+      "target": "stream_voiceagentevent_voiceagentevent_ts"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentEvent.java",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "java_com_alibaba_cloud_ai_examples_voiceagent_stream_voiceagentevent_java",
+      "target": "stream_voiceagentevent_voiceagentevent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentEvent.java",
+      "source_location": "L79",
+      "weight": 1.0,
+      "source": "java_com_alibaba_cloud_ai_examples_voiceagent_stream_voiceagentevent_java",
+      "target": "stream_voiceagentevent_create",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentEvent.java",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "stream_voiceagentevent_voiceagentevent",
+      "target": "stream_voiceagentevent_voiceagentevent_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentEvent.java",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "stream_voiceagentevent_voiceagentevent",
+      "target": "stream_voiceagentevent_voiceagentevent_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentAudioWebSocketHandler.java",
+      "source_location": "L169",
+      "weight": 1.0,
+      "source": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_tojson",
+      "target": "stream_voiceagentevent_voiceagentevent_type"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentAudioWebSocketHandler.java",
+      "source_location": "L169",
+      "weight": 1.0,
+      "source": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_tojson",
+      "target": "stream_voiceagentevent_voiceagentevent_ts"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentAudioWebSocketHandler.java",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "java_com_alibaba_cloud_ai_examples_voiceagent_stream_voiceagentaudiowebsockethandler_java",
+      "target": "abstractwebsockethandler",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentAudioWebSocketHandler.java",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "java_com_alibaba_cloud_ai_examples_voiceagent_stream_voiceagentaudiowebsockethandler_java",
+      "target": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentAudioWebSocketHandler.java",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler",
+      "target": "abstractwebsockethandler",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentAudioWebSocketHandler.java",
+      "source_location": "L53",
+      "weight": 1.0,
+      "source": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler",
+      "target": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentAudioWebSocketHandler.java",
+      "source_location": "L57",
+      "weight": 1.0,
+      "source": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler",
+      "target": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_afterconnectionestablished",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentAudioWebSocketHandler.java",
+      "source_location": "L64",
+      "weight": 1.0,
+      "source": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler",
+      "target": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_handlebinarymessage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentAudioWebSocketHandler.java",
+      "source_location": "L75",
+      "weight": 1.0,
+      "source": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler",
+      "target": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_handletextmessage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentAudioWebSocketHandler.java",
+      "source_location": "L106",
+      "weight": 1.0,
+      "source": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler",
+      "target": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_afterconnectionclosed",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentAudioWebSocketHandler.java",
+      "source_location": "L112",
+      "weight": 1.0,
+      "source": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler",
+      "target": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_parsetype",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentAudioWebSocketHandler.java",
+      "source_location": "L124",
+      "weight": 1.0,
+      "source": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler",
+      "target": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_getaudiosink",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentAudioWebSocketHandler.java",
+      "source_location": "L129",
+      "weight": 1.0,
+      "source": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler",
+      "target": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_runrealtimestream",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentAudioWebSocketHandler.java",
+      "source_location": "L141",
+      "weight": 1.0,
+      "source": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler",
+      "target": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_sendevent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentAudioWebSocketHandler.java",
+      "source_location": "L154",
+      "weight": 1.0,
+      "source": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler",
+      "target": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_senderror",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentAudioWebSocketHandler.java",
+      "source_location": "L167",
+      "weight": 1.0,
+      "source": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler",
+      "target": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_tojson",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentAudioWebSocketHandler.java",
+      "source_location": "L66",
+      "weight": 1.0,
+      "source": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_handlebinarymessage",
+      "target": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_getaudiosink",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentAudioWebSocketHandler.java",
+      "source_location": "L79",
+      "weight": 1.0,
+      "source": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_handletextmessage",
+      "target": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_senderror",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentAudioWebSocketHandler.java",
+      "source_location": "L82",
+      "weight": 1.0,
+      "source": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_handletextmessage",
+      "target": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_parsetype",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentAudioWebSocketHandler.java",
+      "source_location": "L84",
+      "weight": 1.0,
+      "source": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_handletextmessage",
+      "target": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_getaudiosink",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentAudioWebSocketHandler.java",
+      "source_location": "L89",
+      "weight": 1.0,
+      "source": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_handletextmessage",
+      "target": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_runrealtimestream",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentAudioWebSocketHandler.java",
+      "source_location": "L132",
+      "weight": 1.0,
+      "source": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_runrealtimestream",
+      "target": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_sendevent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentAudioWebSocketHandler.java",
+      "source_location": "L133",
+      "weight": 1.0,
+      "source": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_runrealtimestream",
+      "target": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_senderror",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "java/com/alibaba/cloud/ai/examples/voiceagent/stream/VoiceAgentAudioWebSocketHandler.java",
+      "source_location": "L146",
+      "weight": 1.0,
+      "source": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_sendevent",
+      "target": "stream_voiceagentaudiowebsockethandler_voiceagentaudiowebsockethandler_tojson",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "built_at_commit": "0eaf7ea0c88aaac6ab2bb2b4a2892fca48d79da6"
+}

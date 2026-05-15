@@ -1,0 +1,1 @@
+{"nodes": [{"id": "prompts_interview_question_resume_user", "label": "Resume-Based Question Generation User Prompt", "file_type": "document", "source_file": "app/src/main/resources/prompts/interview-question-resume-user.st", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null}], "edges": [], "hyperedges": []}

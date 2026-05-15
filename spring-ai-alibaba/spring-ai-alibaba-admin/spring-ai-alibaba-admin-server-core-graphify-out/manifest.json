@@ -1,0 +1,798 @@
+{
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/org/springframework/ai/vectorstore/SearchType.java": {
+    "mtime": 1778650692.5262635,
+    "hash": "7e0846d6386fea367102cb406ff71be7"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/org/springframework/ai/vectorstore/SearchRequest.java": {
+    "mtime": 1778650692.5262635,
+    "hash": "26b5f1e33c4fc402ee32262deb08b073"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/org/springframework/ai/vectorstore/elasticsearch/ElasticsearchVectorStore.java": {
+    "mtime": 1778650692.5262635,
+    "hash": "7b62de2a6618e01aec18db43b7b41651"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/rag/KnowledgeBaseService.java": {
+    "mtime": 1778650692.5232635,
+    "hash": "b0e24c83dc549a83c47085b00dc43071"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/rag/DocumentChunkConverter.java": {
+    "mtime": 1778650692.5232635,
+    "hash": "24d1dfeda73a28ccd7bc478d94cafe51"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/rag/DocumentService.java": {
+    "mtime": 1778650692.5232635,
+    "hash": "75d3d694062ce8df5e08312fcf7a44fd"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/rag/RagConstants.java": {
+    "mtime": 1778650692.5232635,
+    "hash": "8562c3a206408b70abdaafa1ed31f424"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/rag/reader/TextDocumentReader.java": {
+    "mtime": 1778650692.5232635,
+    "hash": "f1ae42347d97f7e176454f089c36fb6b"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/rag/vectorstore/VectorStoreType.java": {
+    "mtime": 1778650692.5242634,
+    "hash": "9769bbb6614ab7d01edd6802f2331d22"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/rag/vectorstore/VectorStoreFactory.java": {
+    "mtime": 1778650692.5232635,
+    "hash": "cca0f4b393dae63f4e374a3c643c305b"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/rag/vectorstore/VectorStoreService.java": {
+    "mtime": 1778650692.5232635,
+    "hash": "cf00a65eaf0589dcb57f43dd13636969"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/rag/vectorstore/elasticsearch/ElasticSearchVectorStoreService.java": {
+    "mtime": 1778650692.5242634,
+    "hash": "dff916a334c65ae94595ad11ffb39dff"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/rag/indices/KnowledgeBaseIndexPipeline.java": {
+    "mtime": 1778650692.5232635,
+    "hash": "fb30bd0ad12a14e860ebe8996c8a5f67"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/rag/indices/IndexPipeline.java": {
+    "mtime": 1778650692.5232635,
+    "hash": "184752aa2d8ba413b52a3fc72fe7dc32"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/rag/indices/DocumentIndexHandler.java": {
+    "mtime": 1778650692.5232635,
+    "hash": "ed00b77937076e10e4a79e3c16e18d8b"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/rag/splitter/RegexTextSplitter.java": {
+    "mtime": 1778650692.5232635,
+    "hash": "efda8e1ba8eeb18d6a728fee5cb389f7"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/rag/impl/KnowledgeBaseServiceImpl.java": {
+    "mtime": 1778650692.5232635,
+    "hash": "956e5607eb2ea3873d1e1af4095dd5fa"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/rag/impl/DocumentServiceImpl.java": {
+    "mtime": 1778650692.5232635,
+    "hash": "fddb517b3cedcf92449fbdc005dac41f"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/rag/retriever/KnowledgeBaseDocumentRetriever.java": {
+    "mtime": 1778650692.5232635,
+    "hash": "a6f3602e538df7883c9df47ce4659c60"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/rag/advisor/KnowledgeBaseRetrievalAdvisor.java": {
+    "mtime": 1778650692.5232635,
+    "hash": "3c4a7ba2fed06b90fa3bec3b3f76a650"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/context/RequestContextHolder.java": {
+    "mtime": 1778650692.5222635,
+    "hash": "68a0d676100d19dbb805a34fa79a417c"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/config/CommonConfig.java": {
+    "mtime": 1778650692.5222635,
+    "hash": "a29f29e66806f1914478a265cd479456"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/config/MqConfigProperties.java": {
+    "mtime": 1778650692.5222635,
+    "hash": "ebd59d5b3df8ebb943f6c1a3a5a1f7b6"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/config/JwtConfigProperties.java": {
+    "mtime": 1778650692.5222635,
+    "hash": "3e13f01edbb02d5b7993879b8ceaba77"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/config/MybatisPlusConfig.java": {
+    "mtime": 1778650692.5222635,
+    "hash": "97826465415f55103e11a1d90108d339"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/config/StudioProperties.java": {
+    "mtime": 1778650692.5222635,
+    "hash": "f07a7f255846e836142f46c10f7204c9"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/config/RedissonConfig.java": {
+    "mtime": 1778650692.5222635,
+    "hash": "d849fefc58f63ef3582e07b3ac8c614c"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/config/OAuth2Config.java": {
+    "mtime": 1778650692.5222635,
+    "hash": "5a98ed9f580c877efcd53e68be943adc"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/config/ScriptEngineConfig.java": {
+    "mtime": 1778650692.5222635,
+    "hash": "9b564219ff16f56dd62a650110491cd8"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/manager/TokenManager.java": {
+    "mtime": 1778650692.5192635,
+    "hash": "3441057b98cd0fc85431b2c1b2d53f9a"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/manager/ModelExecuteManager.java": {
+    "mtime": 1778650692.5192635,
+    "hash": "88f3a0cbda006b7069d97983b3e289ec"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/manager/ModelManager.java": {
+    "mtime": 1778650692.5192635,
+    "hash": "28974ef25cdef1a394da5da89bdc2c8f"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/manager/ProviderManager.java": {
+    "mtime": 1778650692.5192635,
+    "hash": "d14326c34804c0587e04d5e31bc4a79c"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/manager/SandboxManager.java": {
+    "mtime": 1778650692.5192635,
+    "hash": "9e17209a1197c75ba52385878877b1f1"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/manager/AppComponentManager.java": {
+    "mtime": 1778650692.5192635,
+    "hash": "c807201fff52417333780b2c76a5dbd5"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/manager/DocumentRetrieverManager.java": {
+    "mtime": 1778650692.5192635,
+    "hash": "56553f840f30ca1a35e2bd29d4144501"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/manager/MCPManager.java": {
+    "mtime": 1778650692.5192635,
+    "hash": "db5676526efb3910a0fefe702c84288a"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/manager/FileManager.java": {
+    "mtime": 1778650692.5192635,
+    "hash": "56fdaa25c5237f746cd1548f36ecc4ff"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/manager/RedisManager.java": {
+    "mtime": 1778650692.5192635,
+    "hash": "a33d6fbe2a1dae227b47fba598b52e45"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/manager/HttpClientManager.java": {
+    "mtime": 1778650692.5192635,
+    "hash": "d1d09d445ae355be996bbce65ad314ef"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/manager/OssManager.java": {
+    "mtime": 1778650692.5192635,
+    "hash": "ae13ad387e9df8a52e47f3b2bae6fb0d"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/constants/CacheConstants.java": {
+    "mtime": 1778650692.5182633,
+    "hash": "60d1cb91a1ca004d6d4777aa4cc96b61"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/mapper/DocumentMapper.java": {
+    "mtime": 1778650692.5202634,
+    "hash": "0108478d1e0b88ca3e827ac2dde30ec6"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/mapper/AgentSchemaMapper.java": {
+    "mtime": 1778650692.5202634,
+    "hash": "fc7ecc4cf44f549a1fe11ad689903d9a"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/mapper/AppMapper.java": {
+    "mtime": 1778650692.5202634,
+    "hash": "d211c06fafd58e8335f80ed84adf83a3"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/mapper/AppComponentMapper.java": {
+    "mtime": 1778650692.5202634,
+    "hash": "9d31e28536c28a1e26d283baa7270792"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/mapper/PluginMapper.java": {
+    "mtime": 1778650692.5202634,
+    "hash": "cb10ed9ad618ed3c3e93124e4e64de05"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/mapper/AppVersionMapper.java": {
+    "mtime": 1778650692.5202634,
+    "hash": "8e65708aaadcd35dcaf8b74e70b1dc06"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/mapper/AccountMapper.java": {
+    "mtime": 1778650692.5202634,
+    "hash": "1f0e805d3dbdd4a7ee2a4d6999f15ef2"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/mapper/ApiKeyMapper.java": {
+    "mtime": 1778650692.5202634,
+    "hash": "efe0a0f8fc47c1351329a05bd03daf79"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/mapper/KnowledgeBaseMapper.java": {
+    "mtime": 1778650692.5202634,
+    "hash": "d39b19c789cf60d03ebf43b429c42ef9"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/mapper/ModelMapper.java": {
+    "mtime": 1778650692.5202634,
+    "hash": "bd3234c48d56378f32b6041701020b34"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/mapper/ToolMapper.java": {
+    "mtime": 1778650692.5202634,
+    "hash": "b69976009a89a9a9a5fdcb272e707a5b"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/mapper/McpServerMapper.java": {
+    "mtime": 1778650692.5202634,
+    "hash": "7630a138b86147938b3687cd62cf67f3"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/mapper/ReferMapper.java": {
+    "mtime": 1778650692.5202634,
+    "hash": "da772fb7411b6cc67fe9d5eb677a00fd"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/mapper/WorkspaceMapper.java": {
+    "mtime": 1778650692.5202634,
+    "hash": "445627c98d14c9f7b574589ef37d4e8e"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/mapper/ProviderMapper.java": {
+    "mtime": 1778650692.5202634,
+    "hash": "0b89c28c7c6472a8046505814e08791d"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/mq/MqConfig.java": {
+    "mtime": 1778650692.5202634,
+    "hash": "7a356c5f6af7265514a6c97bb3e74156"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/mq/SendResult.java": {
+    "mtime": 1778650692.5202634,
+    "hash": "5f791436c0432f53854d3a604bbc2a32"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/mq/SendCallback.java": {
+    "mtime": 1778650692.5202634,
+    "hash": "e23cc254f332186c23d06741d41bf8e7"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/mq/MqConsumerManager.java": {
+    "mtime": 1778650692.5202634,
+    "hash": "0ac516ac84e58c200aaaa7a0e4222f4b"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/mq/MqConsumerHandler.java": {
+    "mtime": 1778650692.5202634,
+    "hash": "4543d09897a6e5c9de1e0143a2d45d0c"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/mq/MqProducerManager.java": {
+    "mtime": 1778650692.5202634,
+    "hash": "e815355b8316b8ffd42c47d954444555"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/mq/MqMessage.java": {
+    "mtime": 1778650692.5202634,
+    "hash": "9b8733ea644dcfa87d0afc3ba2cd47df"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/entity/AgentSchemaEntity.java": {
+    "mtime": 1778650692.5182633,
+    "hash": "155a15fad787f813d1a95a38112c5a43"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/entity/ReferEntity.java": {
+    "mtime": 1778650692.5192635,
+    "hash": "8f1424b592c4a1505055686021c64f1a"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/entity/PluginEntity.java": {
+    "mtime": 1778650692.5182633,
+    "hash": "19e5beca1b1d54bd740a9a78fd4e0a14"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/entity/WorkspaceEntity.java": {
+    "mtime": 1778650692.5192635,
+    "hash": "8a8404d83125a4e4fdc3bb7452f867fb"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/entity/McpServerEntity.java": {
+    "mtime": 1778650692.5182633,
+    "hash": "f9574e5d2e649b7e9cdc98af716d8ce5"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/entity/AppEntity.java": {
+    "mtime": 1778650692.5182633,
+    "hash": "0445d065f96d7ba93883adede36776b2"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/entity/DocumentEntity.java": {
+    "mtime": 1778650692.5182633,
+    "hash": "29b14dec8ea8f64ab7f5ce63d6647539"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/entity/ToolEntity.java": {
+    "mtime": 1778650692.5192635,
+    "hash": "18185f4cf6840981171f7eb74fc412d0"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/entity/LimitEntity.java": {
+    "mtime": 1778650692.5182633,
+    "hash": "6f3470296d467301773e9a13078b6744"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/entity/KnowledgeBaseEntity.java": {
+    "mtime": 1778650692.5182633,
+    "hash": "6a945aee50180c7ed7ffbf6036505718"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/entity/AccountEntity.java": {
+    "mtime": 1778650692.5182633,
+    "hash": "170d6fd0798146858a6012875bf4bb6a"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/entity/ApiKeyEntity.java": {
+    "mtime": 1778650692.5182633,
+    "hash": "7b77719c73e3e170f8160c6f650f6b71"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/entity/AppComponentEntity.java": {
+    "mtime": 1778650692.5182633,
+    "hash": "8cb225f690f53c7a06bc940ad1d1c83b"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/entity/ModelEntity.java": {
+    "mtime": 1778650692.5182633,
+    "hash": "43670341299177d2da2d5425afdfa929"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/entity/AppVersionEntity.java": {
+    "mtime": 1778650692.5182633,
+    "hash": "f8cce290b4d0cbb8c551862c27da0f8e"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/entity/ProviderEntity.java": {
+    "mtime": 1778650692.5182633,
+    "hash": "3e34f31077d501c40db03024e4a9ad93"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/domain/RpcResult.java": {
+    "mtime": 1778650692.5182633,
+    "hash": "38cf2d978b17e7e132350e4c4fc20dab"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/domain/HttpDeleteWithBody.java": {
+    "mtime": 1778650692.5182633,
+    "hash": "73a7239b4abc5cf4862d00559b516c92"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/service/AppService.java": {
+    "mtime": 1778650692.5212634,
+    "hash": "1a5e086f8bf9f25bf4d64dd09c4e7e35"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/service/AccountService.java": {
+    "mtime": 1778650692.5202634,
+    "hash": "4f7f8824c6e736678735388782a24971"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/service/ApiKeyService.java": {
+    "mtime": 1778650692.5202634,
+    "hash": "65969baac1ab184a98a70e2186c8454a"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/service/ToolService.java": {
+    "mtime": 1778650692.5212634,
+    "hash": "94061494dae736303a320b556d07fbae"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/service/ReferService.java": {
+    "mtime": 1778650692.5212634,
+    "hash": "87fc9698a9d5a83d13ac674d5a3f791e"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/service/AgentService.java": {
+    "mtime": 1778650692.5202634,
+    "hash": "447c3c8cb2906de733d8219163403850"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/service/AppComponentService.java": {
+    "mtime": 1778650692.5202634,
+    "hash": "230f91fd509c411e181200de622cf808"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/service/WorkspaceService.java": {
+    "mtime": 1778650692.5212634,
+    "hash": "4e826e72d7a7a556635f24b2e7fb5dde"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/service/Oauth2Service.java": {
+    "mtime": 1778650692.5212634,
+    "hash": "bedc34e3bfd58f3fec80ac7c2d2e7c79"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/service/WorkflowService.java": {
+    "mtime": 1778650692.5212634,
+    "hash": "6826def1602f78c711f58d0c11ca058e"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/service/ToolExecutionService.java": {
+    "mtime": 1778650692.5212634,
+    "hash": "63317c815c3b5be03ee9a80dea86aae9"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/service/McpServerService.java": {
+    "mtime": 1778650692.5212634,
+    "hash": "38ba560aaad691ddd1480763ee629399"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/service/AgentSchemaService.java": {
+    "mtime": 1778650692.5202634,
+    "hash": "252afa95787e96d26e12139146f9125c"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/service/PluginService.java": {
+    "mtime": 1778650692.5212634,
+    "hash": "48e8931d3c4f614afa78140fe90e2cf0"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/service/impl/McpServerServiceImpl.java": {
+    "mtime": 1778650692.5212634,
+    "hash": "5e0fb0020bba40dfd93fa7470f6d527b"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/service/impl/AppComponentServiceImpl.java": {
+    "mtime": 1778650692.5212634,
+    "hash": "f3a6e5566ea3047ed645879e7f59b60a"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/service/impl/AppServiceImpl.java": {
+    "mtime": 1778650692.5212634,
+    "hash": "023e6d49b614ee24d71ead4ceb6f2299"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/service/impl/WorkflowServiceImpl.java": {
+    "mtime": 1778650692.5222635,
+    "hash": "eda37a895cef61f4820ce0dec6548518"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/service/impl/ToolExecutionServiceImpl.java": {
+    "mtime": 1778650692.5222635,
+    "hash": "1eabda668cdba0cdf40cdd1182ad5273"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/service/impl/PluginServiceImpl.java": {
+    "mtime": 1778650692.5222635,
+    "hash": "2e16a0767cc974c40fa9fa9234a314a5"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/service/impl/AgentSchemaServiceImpl.java": {
+    "mtime": 1778650692.5212634,
+    "hash": "75b8088bc2f34a5f8b19c5e3de7eb030"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/service/impl/ToolServiceImpl.java": {
+    "mtime": 1778650692.5222635,
+    "hash": "e25c9e7688a69f9f0e087ed2a8a99c40"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/service/impl/WorkspaceServiceImpl.java": {
+    "mtime": 1778650692.5222635,
+    "hash": "ebc15d9133678e5faf91bca009657b4b"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/service/impl/ReferServiceImpl.java": {
+    "mtime": 1778650692.5222635,
+    "hash": "140b98f485a617879067fdd981995fb1"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/service/impl/ApiKeyServiceImpl.java": {
+    "mtime": 1778650692.5212634,
+    "hash": "7b25412e30aa809d6b7c6f7c462f05ee"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/service/impl/GitHubOAuth2ServiceImpl.java": {
+    "mtime": 1778650692.5212634,
+    "hash": "af40a43d4936ee91a2aa9782463cb4b5"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/service/impl/AgentServiceImpl.java": {
+    "mtime": 1778650692.5212634,
+    "hash": "d12df61fd1ce5cd59a3fd262cfdbd33e"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/base/service/impl/AccountServiceImpl.java": {
+    "mtime": 1778650692.5212634,
+    "hash": "0ccb865d3d3c958a93e97aaeff65dc83"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/utils/ErrorHandlerUtils.java": {
+    "mtime": 1778650692.5242634,
+    "hash": "44347c706384771b56b5c1012add463b"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/utils/LogUtils.java": {
+    "mtime": 1778650692.5242634,
+    "hash": "68110824386184239a7eec4acd80b821"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/utils/concurrent/ThreadPoolUtils.java": {
+    "mtime": 1778650692.5242634,
+    "hash": "1e96ad977c594ba8fc8df96513fc5302"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/utils/concurrent/RequestContextThreadPoolWrapper.java": {
+    "mtime": 1778650692.5242634,
+    "hash": "119f7735b4d8299684b70cc838fc8f6c"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/utils/io/MediaDataUtils.java": {
+    "mtime": 1778650692.5242634,
+    "hash": "adfef20165fb090f33ccde7a85396fa1"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/utils/io/FileUtils.java": {
+    "mtime": 1778650692.5242634,
+    "hash": "8779048754228452fd8a404f4d0fcd1a"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/utils/security/PasswordCryptUtils.java": {
+    "mtime": 1778650692.5252633,
+    "hash": "40f27b4d6a80ffcadf0d675643447454"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/utils/security/CryptoUtils.java": {
+    "mtime": 1778650692.5252633,
+    "hash": "48b6fbef87087fd396120cb1a25ec25c"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/utils/security/RSACryptUtils.java": {
+    "mtime": 1778650692.5252633,
+    "hash": "93fe42bc4ab167ffc53cdbcc4f2dc151"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/utils/security/AESCryptUtils.java": {
+    "mtime": 1778650692.5252633,
+    "hash": "df6b9d7b3610723428c13c2aa1122c0e"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/utils/api/OpenApiUtils.java": {
+    "mtime": 1778650692.5242634,
+    "hash": "0023b8777222cbbd364244328eb62930"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/utils/api/ApiUtils.java": {
+    "mtime": 1778650692.5242634,
+    "hash": "797508f5a7cbcf9e860439d7afe685e8"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/utils/common/SystemClock.java": {
+    "mtime": 1778650692.5242634,
+    "hash": "080935a1fdd07611c309d5739d549c8a"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/utils/common/DateUtils.java": {
+    "mtime": 1778650692.5242634,
+    "hash": "4ec9d48ad78840480ff3e6cba76ca437"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/utils/common/VariableUtils.java": {
+    "mtime": 1778650692.5242634,
+    "hash": "9fa2fb1c931aaa779c652d473b5540b5"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/utils/common/BeanCopierUtilsCallback.java": {
+    "mtime": 1778650692.5242634,
+    "hash": "ecff75b978a288ac83110cc24f07f47f"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/utils/common/Sequence.java": {
+    "mtime": 1778650692.5242634,
+    "hash": "2b46294ab9b3b56011cd6f1cb7f4896d"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/utils/common/IdGenerator.java": {
+    "mtime": 1778650692.5242634,
+    "hash": "ee35c65266431eace12e80b026d5df41"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/utils/common/BeanCopierUtils.java": {
+    "mtime": 1778650692.5242634,
+    "hash": "b908b5c16f3a71ff963b4360ba769e6b"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/workflow/WorkflowInnerService.java": {
+    "mtime": 1778650692.5252633,
+    "hash": "3aa0041820e75c2cec8739c404bd4c24"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/workflow/JudgeOperator.java": {
+    "mtime": 1778650692.5252633,
+    "hash": "d9d28cf290570ef5d3942379df0caf36"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/workflow/WorkflowContext.java": {
+    "mtime": 1778650692.5252633,
+    "hash": "1f1a26bc403e3edd0b5a95d0993e9902"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/workflow/WorkflowConfig.java": {
+    "mtime": 1778650692.5252633,
+    "hash": "ce7a4401210a2bf4e65bb9f80181d386"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/workflow/constants/WorkflowConstants.java": {
+    "mtime": 1778650692.5252633,
+    "hash": "b29c614bafc954616f9fd0dea2cd76f5"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/workflow/runtime/WorkflowExecuteManager.java": {
+    "mtime": 1778650692.5262635,
+    "hash": "cd3c85526433c9df7f9b59a3bdf98354"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/workflow/processor/ExecuteProcessor.java": {
+    "mtime": 1778650692.5252633,
+    "hash": "987d703cd6ea2caaabd83bbd23ec2801"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/workflow/processor/AbstractExecuteProcessor.java": {
+    "mtime": 1778650692.5252633,
+    "hash": "59d0764a15f1a9a382c126a0f81ee431"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/workflow/processor/impl/StartExecuteProcessor.java": {
+    "mtime": 1778650692.5262635,
+    "hash": "dda580f3bd4ddfbe725a2b53a0121e04"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/workflow/processor/impl/IteratorEndExecuteProcessor.java": {
+    "mtime": 1778650692.5252633,
+    "hash": "34a19a7e933901f5dc6ca65d2aca7c9c"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/workflow/processor/impl/PluginExecuteProcessor.java": {
+    "mtime": 1778650692.5262635,
+    "hash": "9d8eae34b00fd06b34520a9311afb72c"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/workflow/processor/impl/AppComponentExecuteProcessor.java": {
+    "mtime": 1778650692.5252633,
+    "hash": "5822d7cd6e55aee33992a6b97e0f0d57"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/workflow/processor/impl/ScriptExecuteProcessor.java": {
+    "mtime": 1778650692.5262635,
+    "hash": "f801a7dd63f38ef303e5651ddc430a8e"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/workflow/processor/impl/RetrievalExecuteProcessor.java": {
+    "mtime": 1778650692.5262635,
+    "hash": "2d9e80ac1b8a727952a28bbbd612a9e1"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/workflow/processor/impl/IteratorStartExecuteProcessor.java": {
+    "mtime": 1778650692.5252633,
+    "hash": "3d6214c6fd1c35b4995a199e9044623b"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/workflow/processor/impl/ClassifierExecuteProcessor.java": {
+    "mtime": 1778650692.5252633,
+    "hash": "0715e39e547b8fd05c809c0587b888e9"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/workflow/processor/impl/ParameterExtractorExecuteProcessor.java": {
+    "mtime": 1778650692.5262635,
+    "hash": "7e61268a3b0ddb76e440a4821fb87d59"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/workflow/processor/impl/LLMExecuteProcessor.java": {
+    "mtime": 1778650692.5252633,
+    "hash": "316bef373025472cfdd1ef4b2f9f0d88"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/workflow/processor/impl/ParallelStartExecuteProcessor.java": {
+    "mtime": 1778650692.5262635,
+    "hash": "f951fe22ba44761da584ce6f9fc7d608"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/workflow/processor/impl/IteratorExecuteProcessor.java": {
+    "mtime": 1778650692.5252633,
+    "hash": "7db1c9934852f37aac35281ee3bb175c"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/workflow/processor/impl/EndExecuteProcessor.java": {
+    "mtime": 1778650692.5252633,
+    "hash": "bf65f8f817d7223121b8986a92b1f7e7"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/workflow/processor/impl/APIExecuteProcessor.java": {
+    "mtime": 1778650692.5252633,
+    "hash": "c730561182aa1ce877bbc5e2a4a5c84f"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/workflow/processor/impl/ParallelEndExecuteProcessor.java": {
+    "mtime": 1778650692.5262635,
+    "hash": "2448198ec715d1e3b5959d1a36836ca6"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/workflow/processor/impl/MCPExecuteProcessor.java": {
+    "mtime": 1778650692.5262635,
+    "hash": "d25085e9c403bb0f43e2e30b5eb8fc82"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/workflow/processor/impl/VariableAssignExecuteProcessor.java": {
+    "mtime": 1778650692.5262635,
+    "hash": "49c252d16a66545dc47990dcf53a3dbd"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/workflow/processor/impl/OutputExecuteProcessor.java": {
+    "mtime": 1778650692.5262635,
+    "hash": "3b6d45d0ff3fda96b35b82502afeb392"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/workflow/processor/impl/VariableHandleExecuteProcessor.java": {
+    "mtime": 1778650692.5262635,
+    "hash": "f556994220f46261b28133839e9b633b"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/workflow/processor/impl/JudgeExecuteProcessor.java": {
+    "mtime": 1778650692.5252633,
+    "hash": "d4f76b4ce0b958a148b15fa64bfd2996"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/workflow/processor/impl/ParallelExecuteProcessor.java": {
+    "mtime": 1778650692.5262635,
+    "hash": "639b611e9d6f6297d5525b38a5089d55"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/workflow/processor/impl/InputExecuteProcessor.java": {
+    "mtime": 1778650692.5252633,
+    "hash": "c91805ac23486f6aea1abfea5f68b95b"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/agent/AgentExecutor.java": {
+    "mtime": 1778650692.5182633,
+    "hash": "eb7f0d219082a41bbb2d1f78c80ba424"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/agent/AbstractAgentExecutor.java": {
+    "mtime": 1778650692.5182633,
+    "hash": "a6639a8a2442b27d677f6ad3ad1d9f6d"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/agent/WorkflowAgentExecutor.java": {
+    "mtime": 1778650692.5182633,
+    "hash": "94e374d979b7c11138ffea019cff5196"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/agent/AgentContext.java": {
+    "mtime": 1778650692.5182633,
+    "hash": "275a4f0dcb64d54a022f2bbb573b2b2e"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/agent/BasicAgentExecutor.java": {
+    "mtime": 1778650692.5182633,
+    "hash": "f037d6ea03864ac89136f9ca8ea4f764"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/agent/tool/PluginToolCallback.java": {
+    "mtime": 1778650692.5182633,
+    "hash": "c7d2c22565312f544e2f31991a3d33cb"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/agent/tool/AppComponentToolCallback.java": {
+    "mtime": 1778650692.5182633,
+    "hash": "8809aab7c13d67d4086edd37452093b6"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/agent/tool/AgentToolCallback.java": {
+    "mtime": 1778650692.5182633,
+    "hash": "15e6959c61446fffdf6da1b120e340cb"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/agent/tool/ToolArgumentsHelper.java": {
+    "mtime": 1778650692.5182633,
+    "hash": "979b8c19f444292424cfb1a7d7e0e160"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/agent/tool/McpToolCallback.java": {
+    "mtime": 1778650692.5182633,
+    "hash": "fc1a7cea1a4afb5349d678602865bec6"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/agent/tool/CompositeToolCallbackProvider.java": {
+    "mtime": 1778650692.5182633,
+    "hash": "e19475915565b01d893ffef8d1f84f8f"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/agent/memory/ConversationChatMemory.java": {
+    "mtime": 1778650692.5182633,
+    "hash": "ce5e4eafe693ef5f171ab03a0916152e"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/model/reranker/RerankerOptions.java": {
+    "mtime": 1778650692.5232635,
+    "hash": "a2176f484681929d25f49401477411e9"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/model/reranker/dashscope/DashscopeReranker.java": {
+    "mtime": 1778650692.5232635,
+    "hash": "1dc953b7169458a99e09a0c8aa7ecbda"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/model/reranker/dashscope/DashScopeRerankerOptions.java": {
+    "mtime": 1778650692.5232635,
+    "hash": "6b026d2837aed80abe4a4db866812f2a"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/model/embedding/DefaultBatchingStrategy.java": {
+    "mtime": 1778650692.5222635,
+    "hash": "51cef0bbe25e8a9c67d6466e7e41f515"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/model/embedding/EmbeddingModelDimension.java": {
+    "mtime": 1778650692.5222635,
+    "hash": "546d7566745b1fd1982b2bbdff782203"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/model/llm/ModelProvider.java": {
+    "mtime": 1778650692.5222635,
+    "hash": "d08f17fcf41cb178ec164d6c0c7fcc42"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/model/llm/ModelFactory.java": {
+    "mtime": 1778650692.5222635,
+    "hash": "cb517a9bf27cb36d63c91c3244eb0485"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/model/llm/domain/ModelParam.java": {
+    "mtime": 1778650692.5232635,
+    "hash": "d71c896bb384e1d87cac2113c63b3455"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/model/llm/domain/ParameterRule.java": {
+    "mtime": 1778650692.5232635,
+    "hash": "30fa435eb270db0e27cd680f2249e2b8"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/model/llm/domain/ModelInstance.java": {
+    "mtime": 1778650692.5232635,
+    "hash": "3e04d8d9a773a77dc264a84cb2b6b46a"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/model/llm/domain/ModelCredential.java": {
+    "mtime": 1778650692.5222635,
+    "hash": "7542e544f12f5303d438a2dab2993817"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/model/llm/domain/ModelConfigInfo.java": {
+    "mtime": 1778650692.5222635,
+    "hash": "fbbb4f9eb0b80b37987044b3747f636a"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/model/llm/domain/ProviderConfigInfo.java": {
+    "mtime": 1778650692.5232635,
+    "hash": "10e8aee776fdf020d763fd3bfcb7c334"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/model/llm/domain/ModelTag.java": {
+    "mtime": 1778650692.5232635,
+    "hash": "95e040a25bf20ec0001149d981da1e47"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/model/llm/impl/OpenAIProvider.java": {
+    "mtime": 1778650692.5232635,
+    "hash": "d1b6f56fc9916f52c3bd7866b8d09a33"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/core/model/llm/impl/TongyiProvider.java": {
+    "mtime": 1778650692.5232635,
+    "hash": "7a8d2d10fd42f9e7b731d961eda733a4"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/runtime/enums/agent/AgentStatus.java": {
+    "mtime": 1778650692.5262635,
+    "hash": "ac7803f234326b50225bff4789777d74"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/main/java/com/alibaba/cloud/ai/studio/runtime/enums/agent/AgentType.java": {
+    "mtime": 1778650692.5262635,
+    "hash": "7651486f3b6729ede4f38890a851d0f0"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/test/java/com/alibaba/cloud/ai/studio/core/rag/reranker/DashscopeRerankerTest.java": {
+    "mtime": 1778650692.5272634,
+    "hash": "bbd43899b398042508dd4a355b03d8e6"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/test/java/com/alibaba/cloud/ai/studio/core/rag/reader/TextDocumentReaderTest.java": {
+    "mtime": 1778650692.5272634,
+    "hash": "f07b66038514d3ff80527ff81e153d3d"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/test/java/com/alibaba/cloud/ai/studio/core/rag/indices/KnowledgeBaseIndexPipelineTest.java": {
+    "mtime": 1778650692.5272634,
+    "hash": "1f653131ff03f20169157b42d01f43cb"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/test/java/com/alibaba/cloud/ai/studio/core/rag/splitter/TextSplitterTest.java": {
+    "mtime": 1778650692.5272634,
+    "hash": "a10eb66298135addb05972a1c7727367"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/test/java/com/alibaba/cloud/ai/studio/core/crypto/PasswordCryptTest.java": {
+    "mtime": 1778650692.5272634,
+    "hash": "19c9718b7705d9aaf8fec60b0ecf8cdd"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/test/java/com/alibaba/cloud/ai/studio/core/crypto/RSACryptTest.java": {
+    "mtime": 1778650692.5272634,
+    "hash": "2aa774596848dfcaa96b7ad2a31b7239"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/test/java/com/alibaba/cloud/ai/studio/core/utils/common/DateUtilsTests.java": {
+    "mtime": 1778650692.5272634,
+    "hash": "676e3ab65a21960a980ecc3f52c27729"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/test/resources/plugin/get_weather.yml": {
+    "mtime": 1778650692.5302634,
+    "hash": "47263b1a14a242cfb65375b26bed0c1c"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/test/resources/reader/springaialibaba.txt": {
+    "mtime": 1778650692.5302634,
+    "hash": "df01d5475b24db6f213407a5c273f6a2"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/src/test/resources/multimodel/dog_and_girl.jpeg": {
+    "mtime": 1778650692.5302634,
+    "hash": "f10e0f33a82893d317e342321fd81a8c"
+  }
+}

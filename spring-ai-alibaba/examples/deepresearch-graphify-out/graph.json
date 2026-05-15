@@ -1,0 +1,397 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "DeepResearchAgent.java",
+      "file_type": "code",
+      "source_file": "DeepResearchAgent.java",
+      "source_location": "L1",
+      "id": "deepresearchagent_java",
+      "community": 3,
+      "norm_label": "deepresearchagent.java"
+    },
+    {
+      "label": "DeepResearchAgent",
+      "file_type": "code",
+      "source_file": "DeepResearchAgent.java",
+      "source_location": "L45",
+      "id": "deepresearch_deepresearchagent_deepresearchagent",
+      "community": 0,
+      "norm_label": "deepresearchagent"
+    },
+    {
+      "label": ".DeepResearchAgent()",
+      "file_type": "code",
+      "source_file": "DeepResearchAgent.java",
+      "source_location": "L69",
+      "id": "deepresearch_deepresearchagent_deepresearchagent_deepresearchagent",
+      "community": 0,
+      "norm_label": ".deepresearchagent()"
+    },
+    {
+      "label": ".createCritiqueAgent()",
+      "file_type": "code",
+      "source_file": "DeepResearchAgent.java",
+      "source_location": "L122",
+      "id": "deepresearch_deepresearchagent_deepresearchagent_createcritiqueagent",
+      "community": 0,
+      "norm_label": ".createcritiqueagent()"
+    },
+    {
+      "label": ".createResearchAgent()",
+      "file_type": "code",
+      "source_file": "DeepResearchAgent.java",
+      "source_location": "L132",
+      "id": "deepresearch_deepresearchagent_deepresearchagent_createresearchagent",
+      "community": 0,
+      "norm_label": ".createresearchagent()"
+    },
+    {
+      "label": ".getResearchAgent()",
+      "file_type": "code",
+      "source_file": "DeepResearchAgent.java",
+      "source_location": "L144",
+      "id": "deepresearch_deepresearchagent_deepresearchagent_getresearchagent",
+      "community": 0,
+      "norm_label": ".getresearchagent()"
+    },
+    {
+      "label": ".subAgentAsInterceptors()",
+      "file_type": "code",
+      "source_file": "DeepResearchAgent.java",
+      "source_location": "L165",
+      "id": "deepresearch_deepresearchagent_deepresearchagent_subagentasinterceptors",
+      "community": 0,
+      "norm_label": ".subagentasinterceptors()"
+    },
+    {
+      "label": "Prompts",
+      "file_type": "code",
+      "source_file": "DeepResearchAgent.java",
+      "source_location": "L185",
+      "id": "deepresearch_deepresearchagent_prompts",
+      "community": 3,
+      "norm_label": "prompts"
+    },
+    {
+      "label": "AgentStaticLoader.java",
+      "file_type": "code",
+      "source_file": "AgentStaticLoader.java",
+      "source_location": "L1",
+      "id": "agentstaticloader_java",
+      "community": 1,
+      "norm_label": "agentstaticloader.java"
+    },
+    {
+      "label": "AgentStaticLoader",
+      "file_type": "code",
+      "source_file": "AgentStaticLoader.java",
+      "source_location": "L48",
+      "id": "deepresearch_agentstaticloader_agentstaticloader",
+      "community": 1,
+      "norm_label": "agentstaticloader"
+    },
+    {
+      "label": "AgentLoader",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "agentloader",
+      "community": 1,
+      "norm_label": "agentloader"
+    },
+    {
+      "label": ".AgentStaticLoader()",
+      "file_type": "code",
+      "source_file": "AgentStaticLoader.java",
+      "source_location": "L55",
+      "id": "deepresearch_agentstaticloader_agentstaticloader_agentstaticloader",
+      "community": 1,
+      "norm_label": ".agentstaticloader()"
+    },
+    {
+      "label": ".listAgents()",
+      "file_type": "code",
+      "source_file": "AgentStaticLoader.java",
+      "source_location": "L69",
+      "id": "deepresearch_agentstaticloader_agentstaticloader_listagents",
+      "community": 1,
+      "norm_label": ".listagents()"
+    },
+    {
+      "label": ".loadAgent()",
+      "file_type": "code",
+      "source_file": "AgentStaticLoader.java",
+      "source_location": "L75",
+      "id": "deepresearch_agentstaticloader_agentstaticloader_loadagent",
+      "community": 1,
+      "norm_label": ".loadagent()"
+    },
+    {
+      "label": "Application.java",
+      "file_type": "code",
+      "source_file": "Application.java",
+      "source_location": "L1",
+      "id": "application_java",
+      "community": 2,
+      "norm_label": "application.java"
+    },
+    {
+      "label": "Application",
+      "file_type": "code",
+      "source_file": "Application.java",
+      "source_location": "L31",
+      "id": "deepresearch_application_application",
+      "community": 2,
+      "norm_label": "application"
+    },
+    {
+      "label": ".main()",
+      "file_type": "code",
+      "source_file": "Application.java",
+      "source_location": "L34",
+      "id": "deepresearch_application_application_main",
+      "community": 2,
+      "norm_label": ".main()"
+    },
+    {
+      "label": ".mcpSyncHttpClientRequestCustomizer()",
+      "file_type": "code",
+      "source_file": "Application.java",
+      "source_location": "L38",
+      "id": "deepresearch_application_application_mcpsynchttpclientrequestcustomizer",
+      "community": 2,
+      "norm_label": ".mcpsynchttpclientrequestcustomizer()"
+    },
+    {
+      "label": ".applicationReadyEventListener()",
+      "file_type": "code",
+      "source_file": "Application.java",
+      "source_location": "L49",
+      "id": "deepresearch_application_application_applicationreadyeventlistener",
+      "community": 2,
+      "norm_label": ".applicationreadyeventlistener()"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DeepResearchAgent.java",
+      "source_location": "L45",
+      "weight": 1.0,
+      "source": "deepresearchagent_java",
+      "target": "deepresearch_deepresearchagent_deepresearchagent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DeepResearchAgent.java",
+      "source_location": "L185",
+      "weight": 1.0,
+      "source": "deepresearchagent_java",
+      "target": "deepresearch_deepresearchagent_prompts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "DeepResearchAgent.java",
+      "source_location": "L69",
+      "weight": 1.0,
+      "source": "deepresearch_deepresearchagent_deepresearchagent",
+      "target": "deepresearch_deepresearchagent_deepresearchagent_deepresearchagent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "DeepResearchAgent.java",
+      "source_location": "L122",
+      "weight": 1.0,
+      "source": "deepresearch_deepresearchagent_deepresearchagent",
+      "target": "deepresearch_deepresearchagent_deepresearchagent_createcritiqueagent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "DeepResearchAgent.java",
+      "source_location": "L132",
+      "weight": 1.0,
+      "source": "deepresearch_deepresearchagent_deepresearchagent",
+      "target": "deepresearch_deepresearchagent_deepresearchagent_createresearchagent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "DeepResearchAgent.java",
+      "source_location": "L144",
+      "weight": 1.0,
+      "source": "deepresearch_deepresearchagent_deepresearchagent",
+      "target": "deepresearch_deepresearchagent_deepresearchagent_getresearchagent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "DeepResearchAgent.java",
+      "source_location": "L165",
+      "weight": 1.0,
+      "source": "deepresearch_deepresearchagent_deepresearchagent",
+      "target": "deepresearch_deepresearchagent_deepresearchagent_subagentasinterceptors",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "DeepResearchAgent.java",
+      "source_location": "L167",
+      "weight": 1.0,
+      "source": "deepresearch_deepresearchagent_deepresearchagent_subagentasinterceptors",
+      "target": "deepresearch_deepresearchagent_deepresearchagent_createcritiqueagent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "DeepResearchAgent.java",
+      "source_location": "L166",
+      "weight": 1.0,
+      "source": "deepresearch_deepresearchagent_deepresearchagent_subagentasinterceptors",
+      "target": "deepresearch_deepresearchagent_deepresearchagent_createresearchagent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "DeepResearchAgent.java",
+      "source_location": "L158",
+      "weight": 1.0,
+      "source": "deepresearch_deepresearchagent_deepresearchagent_getresearchagent",
+      "target": "deepresearch_deepresearchagent_deepresearchagent_subagentasinterceptors",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AgentStaticLoader.java",
+      "source_location": "L61",
+      "weight": 1.0,
+      "source": "deepresearch_agentstaticloader_agentstaticloader_agentstaticloader",
+      "target": "deepresearch_deepresearchagent_deepresearchagent_getresearchagent"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "AgentStaticLoader.java",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "agentstaticloader_java",
+      "target": "agentloader",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AgentStaticLoader.java",
+      "source_location": "L48",
+      "weight": 1.0,
+      "source": "agentstaticloader_java",
+      "target": "deepresearch_agentstaticloader_agentstaticloader",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "source_file": "AgentStaticLoader.java",
+      "source_location": "L48",
+      "weight": 1.0,
+      "source": "deepresearch_agentstaticloader_agentstaticloader",
+      "target": "agentloader",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "AgentStaticLoader.java",
+      "source_location": "L55",
+      "weight": 1.0,
+      "source": "deepresearch_agentstaticloader_agentstaticloader",
+      "target": "deepresearch_agentstaticloader_agentstaticloader_agentstaticloader",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "AgentStaticLoader.java",
+      "source_location": "L69",
+      "weight": 1.0,
+      "source": "deepresearch_agentstaticloader_agentstaticloader",
+      "target": "deepresearch_agentstaticloader_agentstaticloader_listagents",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "AgentStaticLoader.java",
+      "source_location": "L75",
+      "weight": 1.0,
+      "source": "deepresearch_agentstaticloader_agentstaticloader",
+      "target": "deepresearch_agentstaticloader_agentstaticloader_loadagent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Application.java",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "application_java",
+      "target": "deepresearch_application_application",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Application.java",
+      "source_location": "L34",
+      "weight": 1.0,
+      "source": "deepresearch_application_application",
+      "target": "deepresearch_application_application_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Application.java",
+      "source_location": "L38",
+      "weight": 1.0,
+      "source": "deepresearch_application_application",
+      "target": "deepresearch_application_application_mcpsynchttpclientrequestcustomizer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Application.java",
+      "source_location": "L49",
+      "weight": 1.0,
+      "source": "deepresearch_application_application",
+      "target": "deepresearch_application_application_applicationreadyeventlistener",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "built_at_commit": "5a93f1f209ff638a472b5265543623d8abc9b5fc"
+}

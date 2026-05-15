@@ -1,0 +1,10 @@
+{
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-openapi/src/main/java/com/alibaba/cloud/ai/studio/controller/ChatController.java": {
+    "mtime": 1778650692.5312634,
+    "hash": "1e526c3964de882bed149e5fd9007985"
+  },
+  "/workspace/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-openapi/src/main/java/com/alibaba/cloud/ai/studio/interceptor/ApiKeyAuthInterceptor.java": {
+    "mtime": 1778650692.5312634,
+    "hash": "9351495315070fee6dd0f1477ce5b31b"
+  }
+}
